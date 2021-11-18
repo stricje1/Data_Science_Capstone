@@ -1,0 +1,2863 @@
+State,date,indicator,deaths,State Name
+US,Jun-2019,Number of Deaths,2833621,United States
+US,May-2019,Number of Deaths,2828659,United States
+US,Apr-2019,Number of Deaths,2820844,United States
+US,Dec-2017,Number of Deaths,2820034,United States
+US,Mar-2019,Number of Deaths,2819024,United States
+US,Nov-2018,Number of Deaths,2818743,United States
+US,Jan-2019,Number of Deaths,2817917,United States
+US,Oct-2018,Number of Deaths,2816172,United States
+US,Aug-2018,Number of Deaths,2814821,United States
+US,Sep-2018,Number of Deaths,2813340,United States
+US,Feb-2019,Number of Deaths,2813264,United States
+US,Jul-2018,Number of Deaths,2812332,United States
+US,Nov-2017,Number of Deaths,2810357,United States
+US,Feb-2018,Number of Deaths,2809698,United States
+US,Dec-2018,Number of Deaths,2809411,United States
+US,Jun-2018,Number of Deaths,2808999,United States
+US,Apr-2018,Number of Deaths,2808395,United States
+US,May-2018,Number of Deaths,2807651,United States
+US,Mar-2018,Number of Deaths,2806918,United States
+US,Oct-2017,Number of Deaths,2806663,United States
+US,Jan-2018,Number of Deaths,2806321,United States
+US,Sep-2017,Number of Deaths,2804356,United States
+US,Aug-2017,Number of Deaths,2798375,United States
+US,Jul-2017,Number of Deaths,2796333,United States
+US,Jun-2017,Number of Deaths,2794038,United States
+US,May-2017,Number of Deaths,2788083,United States
+US,Apr-2017,Number of Deaths,2782927,United States
+US,Mar-2017,Number of Deaths,2778264,United States
+US,Feb-2017,Number of Deaths,2770741,United States
+US,Jan-2017,Number of Deaths,2766974,United States
+US,Dec-2016,Number of Deaths,2749864,United States
+US,Nov-2016,Number of Deaths,2734397,United States
+US,Oct-2015,Number of Deaths,2729315,United States
+US,Nov-2015,Number of Deaths,2727809,United States
+US,Oct-2016,Number of Deaths,2726854,United States
+US,Sep-2015,Number of Deaths,2723893,United States
+US,Sep-2016,Number of Deaths,2721441,United States
+US,Aug-2015,Number of Deaths,2719206,United States
+US,Dec-2015,Number of Deaths,2718198,United States
+US,Aug-2016,Number of Deaths,2716965,United States
+US,Jul-2015,Number of Deaths,2712688,United States
+US,Jul-2016,Number of Deaths,2711484,United States
+US,Jun-2016,Number of Deaths,2708788,United States
+US,May-2016,Number of Deaths,2706928,United States
+US,Apr-2016,Number of Deaths,2705990,United States
+US,Jun-2015,Number of Deaths,2704994,United States
+US,Mar-2016,Number of Deaths,2703203,United States
+US,Feb-2016,Number of Deaths,2701647,United States
+US,Jan-2016,Number of Deaths,2698635,United States
+US,May-2015,Number of Deaths,2698421,United States
+US,Apr-2015,Number of Deaths,2691628,United States
+US,Mar-2015,Number of Deaths,2682744,United States
+US,Feb-2015,Number of Deaths,2668442,United States
+US,Jan-2015,Number of Deaths,2653334,United States
+CA,Dec-2017,Number of Deaths,269377,California
+CA,Mar-2018,Number of Deaths,268842,California
+CA,Apr-2018,Number of Deaths,268601,California
+CA,Aug-2018,Number of Deaths,268445,California
+CA,Jun-2019,Number of Deaths,268388,California
+CA,Nov-2017,Number of Deaths,268369,California
+CA,Oct-2017,Number of Deaths,268366,California
+CA,May-2018,Number of Deaths,268142,California
+CA,Sep-2017,Number of Deaths,268090,California
+CA,Jul-2018,Number of Deaths,268012,California
+CA,Nov-2018,Number of Deaths,267929,California
+CA,Jun-2018,Number of Deaths,267863,California
+CA,May-2019,Number of Deaths,267824,California
+CA,Sep-2018,Number of Deaths,267692,California
+CA,Feb-2018,Number of Deaths,267456,California
+CA,Jul-2017,Number of Deaths,267372,California
+CA,Aug-2017,Number of Deaths,267347,California
+CA,Jan-2018,Number of Deaths,267274,California
+CA,Oct-2018,Number of Deaths,267208,California
+CA,Apr-2019,Number of Deaths,266982,California
+CA,Jun-2017,Number of Deaths,266897,California
+CA,Feb-2019,Number of Deaths,266767,California
+CA,Jan-2019,Number of Deaths,266585,California
+CA,Mar-2019,Number of Deaths,266548,California
+CA,Dec-2018,Number of Deaths,266069,California
+CA,May-2017,Number of Deaths,265953,California
+CA,Jan-2017,Number of Deaths,265340,California
+CA,Apr-2017,Number of Deaths,265286,California
+CA,Feb-2017,Number of Deaths,264889,California
+CA,Mar-2017,Number of Deaths,264767,California
+CA,Dec-2016,Number of Deaths,263199,California
+CA,Oct-2016,Number of Deaths,262751,California
+CA,Nov-2016,Number of Deaths,262360,California
+CA,Sep-2016,Number of Deaths,262041,California
+CA,Aug-2016,Number of Deaths,261781,California
+CA,Jul-2016,Number of Deaths,261603,California
+CA,Apr-2016,Number of Deaths,261595,California
+CA,May-2016,Number of Deaths,261557,California
+CA,Jun-2016,Number of Deaths,261467,California
+CA,Mar-2016,Number of Deaths,261416,California
+CA,Feb-2016,Number of Deaths,260508,California
+CA,Dec-2015,Number of Deaths,260172,California
+CA,Jan-2016,Number of Deaths,259303,California
+CA,Nov-2015,Number of Deaths,258808,California
+CA,Oct-2015,Number of Deaths,257750,California
+CA,Sep-2015,Number of Deaths,257163,California
+CA,Aug-2015,Number of Deaths,256464,California
+CA,Jul-2015,Number of Deaths,255417,California
+CA,Jun-2015,Number of Deaths,254838,California
+CA,May-2015,Number of Deaths,253858,California
+CA,Apr-2015,Number of Deaths,252831,California
+CA,Mar-2015,Number of Deaths,251540,California
+CA,Feb-2015,Number of Deaths,249920,California
+CA,Jan-2015,Number of Deaths,248191,California
+FL,Jun-2019,Number of Deaths,207613,Florida
+FL,May-2019,Number of Deaths,207165,Florida
+FL,Jul-2018,Number of Deaths,207040,Florida
+FL,Jun-2018,Number of Deaths,206712,Florida
+FL,Aug-2018,Number of Deaths,206661,Florida
+FL,May-2018,Number of Deaths,206441,Florida
+FL,Mar-2018,Number of Deaths,206409,Florida
+FL,Feb-2018,Number of Deaths,206378,Florida
+FL,Apr-2018,Number of Deaths,206377,Florida
+FL,Sep-2018,Number of Deaths,206344,Florida
+FL,Apr-2019,Number of Deaths,206300,Florida
+FL,Dec-2017,Number of Deaths,206171,Florida
+FL,Jan-2019,Number of Deaths,206147,Florida
+FL,Oct-2018,Number of Deaths,205989,Florida
+FL,Nov-2018,Number of Deaths,205739,Florida
+FL,Jan-2018,Number of Deaths,205653,Florida
+FL,Dec-2018,Number of Deaths,205634,Florida
+FL,Mar-2019,Number of Deaths,205575,Florida
+FL,Feb-2019,Number of Deaths,205528,Florida
+FL,Nov-2017,Number of Deaths,205023,Florida
+FL,Oct-2017,Number of Deaths,204665,Florida
+FL,Sep-2017,Number of Deaths,203978,Florida
+TX,Jun-2019,Number of Deaths,203135,Texas
+TX,Aug-2018,Number of Deaths,203127,Texas
+TX,Sep-2018,Number of Deaths,203025,Texas
+FL,Aug-2017,Number of Deaths,202940,Florida
+TX,Nov-2018,Number of Deaths,202891,Texas
+TX,Jul-2018,Number of Deaths,202779,Texas
+TX,May-2019,Number of Deaths,202688,Texas
+TX,Oct-2018,Number of Deaths,202677,Texas
+TX,Jun-2018,Number of Deaths,202511,Texas
+FL,Jul-2017,Number of Deaths,202400,Florida
+TX,Apr-2019,Number of Deaths,202327,Texas
+FL,Jun-2017,Number of Deaths,202314,Florida
+TX,Apr-2018,Number of Deaths,202312,Texas
+TX,Feb-2018,Number of Deaths,202281,Texas
+TX,May-2018,Number of Deaths,202261,Texas
+TX,Dec-2018,Number of Deaths,202139,Texas
+TX,Mar-2018,Number of Deaths,202101,Texas
+TX,Jan-2019,Number of Deaths,201886,Texas
+TX,Mar-2019,Number of Deaths,201882,Texas
+FL,May-2017,Number of Deaths,201706,Florida
+TX,Jan-2018,Number of Deaths,201606,Texas
+FL,Apr-2017,Number of Deaths,201341,Florida
+TX,Feb-2019,Number of Deaths,201136,Texas
+FL,Jan-2017,Number of Deaths,200883,Florida
+FL,Mar-2017,Number of Deaths,200881,Florida
+TX,Dec-2017,Number of Deaths,200830,Texas
+FL,Feb-2017,Number of Deaths,200708,Florida
+FL,Dec-2016,Number of Deaths,199964,Florida
+TX,Nov-2017,Number of Deaths,199279,Texas
+FL,Nov-2016,Number of Deaths,199256,Florida
+TX,Oct-2017,Number of Deaths,198519,Texas
+FL,Oct-2016,Number of Deaths,198220,Florida
+TX,Sep-2017,Number of Deaths,197641,Texas
+FL,Sep-2016,Number of Deaths,197602,Florida
+FL,Aug-2016,Number of Deaths,197300,Florida
+TX,Aug-2017,Number of Deaths,197234,Texas
+TX,Jun-2017,Number of Deaths,197112,Texas
+TX,May-2017,Number of Deaths,197098,Texas
+TX,Jul-2017,Number of Deaths,197084,Texas
+TX,Apr-2017,Number of Deaths,196770,Texas
+FL,Jul-2016,Number of Deaths,196733,Florida
+TX,Mar-2017,Number of Deaths,196668,Texas
+FL,Jun-2016,Number of Deaths,196273,Florida
+FL,May-2016,Number of Deaths,196050,Florida
+TX,Feb-2017,Number of Deaths,195999,Texas
+FL,Apr-2016,Number of Deaths,195883,Florida
+TX,Jan-2017,Number of Deaths,195740,Texas
+FL,Oct-2015,Number of Deaths,195599,Florida
+FL,Nov-2015,Number of Deaths,195311,Florida
+FL,Mar-2016,Number of Deaths,195215,Florida
+FL,Sep-2015,Number of Deaths,195097,Florida
+TX,Dec-2016,Number of Deaths,194843,Texas
+TX,Nov-2016,Number of Deaths,194403,Texas
+FL,Feb-2016,Number of Deaths,194386,Florida
+FL,Aug-2015,Number of Deaths,194364,Florida
+FL,Dec-2015,Number of Deaths,194297,Florida
+TX,Oct-2016,Number of Deaths,193951,Texas
+FL,Jul-2015,Number of Deaths,193875,Florida
+FL,Jan-2016,Number of Deaths,193810,Florida
+TX,Sep-2016,Number of Deaths,193407,Texas
+FL,Jun-2015,Number of Deaths,193387,Florida
+FL,May-2015,Number of Deaths,193067,Florida
+TX,Oct-2015,Number of Deaths,192890,Texas
+TX,Aug-2016,Number of Deaths,192780,Texas
+TX,Nov-2015,Number of Deaths,192655,Texas
+TX,Sep-2015,Number of Deaths,192514,Texas
+TX,Dec-2015,Number of Deaths,192423,Texas
+FL,Apr-2015,Number of Deaths,192268,Florida
+TX,Aug-2015,Number of Deaths,192231,Texas
+TX,Jul-2016,Number of Deaths,192225,Texas
+TX,Jun-2016,Number of Deaths,191872,Texas
+FL,Mar-2015,Number of Deaths,191745,Florida
+TX,Jul-2015,Number of Deaths,191726,Texas
+TX,May-2016,Number of Deaths,191348,Texas
+TX,Apr-2016,Number of Deaths,191242,Texas
+TX,Feb-2016,Number of Deaths,191128,Texas
+TX,Mar-2016,Number of Deaths,190919,Texas
+TX,Jun-2015,Number of Deaths,190805,Texas
+FL,Feb-2015,Number of Deaths,190591,Florida
+TX,Jan-2016,Number of Deaths,190544,Texas
+TX,May-2015,Number of Deaths,190366,Texas
+TX,Apr-2015,Number of Deaths,189620,Texas
+FL,Jan-2015,Number of Deaths,189170,Florida
+TX,Mar-2015,Number of Deaths,188941,Texas
+TX,Feb-2015,Number of Deaths,188094,Texas
+TX,Jan-2015,Number of Deaths,187532,Texas
+PA,Sep-2017,Number of Deaths,137438,Pennsylvania
+PA,Jun-2017,Number of Deaths,137317,Pennsylvania
+PA,Jul-2017,Number of Deaths,137299,Pennsylvania
+PA,Aug-2017,Number of Deaths,137294,Pennsylvania
+PA,Oct-2017,Number of Deaths,137236,Pennsylvania
+PA,Dec-2017,Number of Deaths,136986,Pennsylvania
+PA,Nov-2017,Number of Deaths,136963,Pennsylvania
+PA,May-2017,Number of Deaths,136818,Pennsylvania
+PA,Apr-2017,Number of Deaths,136404,Pennsylvania
+PA,Mar-2017,Number of Deaths,136252,Pennsylvania
+PA,Jan-2018,Number of Deaths,135750,Pennsylvania
+PA,Feb-2017,Number of Deaths,135703,Pennsylvania
+PA,Feb-2018,Number of Deaths,135654,Pennsylvania
+PA,Jan-2017,Number of Deaths,135315,Pennsylvania
+PA,Apr-2018,Number of Deaths,135299,Pennsylvania
+PA,Mar-2018,Number of Deaths,135206,Pennsylvania
+PA,May-2018,Number of Deaths,135049,Pennsylvania
+PA,Jan-2019,Number of Deaths,135037,Pennsylvania
+PA,Oct-2018,Number of Deaths,134958,Pennsylvania
+PA,Jul-2018,Number of Deaths,134928,Pennsylvania
+PA,Jun-2018,Number of Deaths,134909,Pennsylvania
+PA,Nov-2018,Number of Deaths,134894,Pennsylvania
+PA,Aug-2018,Number of Deaths,134813,Pennsylvania
+PA,Mar-2019,Number of Deaths,134671,Pennsylvania
+PA,Oct-2015,Number of Deaths,134598,Pennsylvania
+PA,Sep-2018,Number of Deaths,134578,Pennsylvania
+PA,Feb-2019,Number of Deaths,134565,Pennsylvania
+PA,May-2019,Number of Deaths,134547,Pennsylvania
+PA,Dec-2016,Number of Deaths,134523,Pennsylvania
+PA,Jun-2019,Number of Deaths,134501,Pennsylvania
+PA,Sep-2015,Number of Deaths,134427,Pennsylvania
+PA,Dec-2018,Number of Deaths,134410,Pennsylvania
+PA,Apr-2019,Number of Deaths,134402,Pennsylvania
+PA,Nov-2015,Number of Deaths,134286,Pennsylvania
+PA,Aug-2015,Number of Deaths,134230,Pennsylvania
+PA,Jun-2015,Number of Deaths,134081,Pennsylvania
+PA,Jul-2015,Number of Deaths,134020,Pennsylvania
+PA,May-2015,Number of Deaths,134018,Pennsylvania
+PA,Apr-2015,Number of Deaths,134004,Pennsylvania
+PA,Dec-2015,Number of Deaths,133734,Pennsylvania
+PA,Mar-2015,Number of Deaths,133628,Pennsylvania
+PA,Nov-2016,Number of Deaths,133350,Pennsylvania
+PA,Feb-2015,Number of Deaths,132673,Pennsylvania
+PA,Oct-2016,Number of Deaths,132591,Pennsylvania
+PA,Jan-2016,Number of Deaths,132350,Pennsylvania
+PA,Sep-2016,Number of Deaths,132286,Pennsylvania
+PA,Aug-2016,Number of Deaths,131999,Pennsylvania
+PA,Feb-2016,Number of Deaths,131948,Pennsylvania
+PA,Jan-2015,Number of Deaths,131628,Pennsylvania
+PA,Apr-2016,Number of Deaths,131585,Pennsylvania
+PA,Mar-2016,Number of Deaths,131584,Pennsylvania
+PA,Jul-2016,Number of Deaths,131526,Pennsylvania
+PA,Jun-2016,Number of Deaths,131297,Pennsylvania
+PA,May-2016,Number of Deaths,131231,Pennsylvania
+OH,Dec-2017,Number of Deaths,123886,Ohio
+OH,Nov-2018,Number of Deaths,123500,Ohio
+OH,Mar-2019,Number of Deaths,123353,Ohio
+OH,Nov-2017,Number of Deaths,123334,Ohio
+OH,Oct-2018,Number of Deaths,123325,Ohio
+OH,Jan-2018,Number of Deaths,123235,Ohio
+OH,Jan-2019,Number of Deaths,123197,Ohio
+OH,Jun-2019,Number of Deaths,123154,Ohio
+OH,Apr-2019,Number of Deaths,123128,Ohio
+OH,Sep-2017,Number of Deaths,123096,Ohio
+OH,Oct-2017,Number of Deaths,123047,Ohio
+OH,Sep-2018,Number of Deaths,123043,Ohio
+OH,Feb-2018,Number of Deaths,123035,Ohio
+OH,May-2019,Number of Deaths,122973,Ohio
+OH,Dec-2018,Number of Deaths,122922,Ohio
+OH,Jul-2018,Number of Deaths,122902,Ohio
+OH,Aug-2018,Number of Deaths,122900,Ohio
+OH,Aug-2017,Number of Deaths,122883,Ohio
+OH,Jun-2018,Number of Deaths,122831,Ohio
+OH,May-2018,Number of Deaths,122803,Ohio
+OH,Feb-2019,Number of Deaths,122776,Ohio
+OH,Apr-2018,Number of Deaths,122646,Ohio
+OH,Jul-2017,Number of Deaths,122639,Ohio
+OH,Jun-2017,Number of Deaths,122468,Ohio
+OH,Mar-2018,Number of Deaths,122444,Ohio
+OH,May-2017,Number of Deaths,122145,Ohio
+OH,Apr-2017,Number of Deaths,121843,Ohio
+OH,Mar-2017,Number of Deaths,121681,Ohio
+OH,Feb-2017,Number of Deaths,121163,Ohio
+OH,Jan-2017,Number of Deaths,120603,Ohio
+OH,Dec-2016,Number of Deaths,119618,Ohio
+OH,Oct-2015,Number of Deaths,119346,Ohio
+OH,Nov-2015,Number of Deaths,119284,Ohio
+OH,Sep-2015,Number of Deaths,119011,Ohio
+OH,Aug-2015,Number of Deaths,118888,Ohio
+OH,Nov-2016,Number of Deaths,118749,Ohio
+OH,Jul-2015,Number of Deaths,118593,Ohio
+OH,Oct-2016,Number of Deaths,118500,Ohio
+OH,Sep-2016,Number of Deaths,118330,Ohio
+OH,Jun-2015,Number of Deaths,118270,Ohio
+OH,Dec-2015,Number of Deaths,118113,Ohio
+OH,May-2015,Number of Deaths,117995,Ohio
+OH,Aug-2016,Number of Deaths,117988,Ohio
+OH,Jul-2016,Number of Deaths,117836,Ohio
+OH,Jun-2016,Number of Deaths,117748,Ohio
+OH,May-2016,Number of Deaths,117613,Ohio
+OH,Apr-2016,Number of Deaths,117570,Ohio
+OH,Apr-2015,Number of Deaths,117559,Ohio
+OH,Mar-2016,Number of Deaths,117453,Ohio
+OH,Feb-2016,Number of Deaths,117069,Ohio
+OH,Jan-2016,Number of Deaths,117030,Ohio
+OH,Mar-2015,Number of Deaths,116925,Ohio
+OH,Feb-2015,Number of Deaths,116546,Ohio
+OH,Jan-2015,Number of Deaths,115935,Ohio
+IL,Dec-2017,Number of Deaths,106635,Illinois
+IL,Oct-2018,Number of Deaths,106314,Illinois
+IL,Nov-2017,Number of Deaths,106309,Illinois
+IL,Jan-2018,Number of Deaths,106281,Illinois
+IL,Jul-2018,Number of Deaths,106278,Illinois
+IL,Nov-2018,Number of Deaths,106221,Illinois
+IL,Apr-2018,Number of Deaths,106206,Illinois
+IL,May-2018,Number of Deaths,106201,Illinois
+IL,Feb-2018,Number of Deaths,106179,Illinois
+IL,Jun-2018,Number of Deaths,106154,Illinois
+IL,Aug-2018,Number of Deaths,106133,Illinois
+IL,Sep-2018,Number of Deaths,106053,Illinois
+IL,Sep-2017,Number of Deaths,105968,Illinois
+IL,Oct-2017,Number of Deaths,105958,Illinois
+IL,Mar-2018,Number of Deaths,105853,Illinois
+IL,Jun-2017,Number of Deaths,105673,Illinois
+IL,Aug-2017,Number of Deaths,105639,Illinois
+IL,May-2017,Number of Deaths,105625,Illinois
+IL,Jul-2017,Number of Deaths,105607,Illinois
+IL,Apr-2017,Number of Deaths,105559,Illinois
+IL,Oct-2015,Number of Deaths,105465,Illinois
+IL,Dec-2018,Number of Deaths,105410,Illinois
+IL,Mar-2017,Number of Deaths,105376,Illinois
+IL,Jan-2019,Number of Deaths,105305,Illinois
+IL,Jun-2019,Number of Deaths,105274,Illinois
+IL,Aug-2015,Number of Deaths,105266,Illinois
+IL,Nov-2015,Number of Deaths,105252,Illinois
+IL,Sep-2015,Number of Deaths,105207,Illinois
+IL,Mar-2019,Number of Deaths,105186,Illinois
+IL,Feb-2019,Number of Deaths,105107,Illinois
+IL,May-2019,Number of Deaths,105089,Illinois
+IL,Feb-2017,Number of Deaths,104986,Illinois
+IL,Jul-2015,Number of Deaths,104977,Illinois
+IL,Apr-2019,Number of Deaths,104812,Illinois
+IL,Jan-2017,Number of Deaths,104762,Illinois
+IL,Jun-2015,Number of Deaths,104648,Illinois
+IL,May-2015,Number of Deaths,104525,Illinois
+IL,Apr-2015,Number of Deaths,104256,Illinois
+IL,Dec-2016,Number of Deaths,104091,Illinois
+IL,Dec-2015,Number of Deaths,103953,Illinois
+IL,Mar-2015,Number of Deaths,103679,Illinois
+IL,Feb-2016,Number of Deaths,103656,Illinois
+IL,Mar-2016,Number of Deaths,103543,Illinois
+IL,Sep-2016,Number of Deaths,103368,Illinois
+IL,Nov-2016,Number of Deaths,103309,Illinois
+IL,Aug-2016,Number of Deaths,103292,Illinois
+IL,Apr-2016,Number of Deaths,103291,Illinois
+IL,Jun-2016,Number of Deaths,103275,Illinois
+IL,Oct-2016,Number of Deaths,103256,Illinois
+IL,Jul-2016,Number of Deaths,103249,Illinois
+IL,May-2016,Number of Deaths,103228,Illinois
+IL,Feb-2015,Number of Deaths,103174,Illinois
+IL,Jan-2016,Number of Deaths,103132,Illinois
+IL,Jan-2015,Number of Deaths,103054,Illinois
+NY,Jun-2019,Number of Deaths,100064,New York
+NY,May-2019,Number of Deaths,100054,New York
+NY,Oct-2018,Number of Deaths,99941,New York
+NY,Jan-2019,Number of Deaths,99888,New York
+NY,Nov-2018,Number of Deaths,99825,New York
+NY,Dec-2017,Number of Deaths,99799,New York
+NY,Mar-2019,Number of Deaths,99783,New York
+NY,Apr-2019,Number of Deaths,99722,New York
+NY,Jun-2017,Number of Deaths,99706,New York
+NY,Sep-2017,Number of Deaths,99699,New York
+NY,Jul-2017,Number of Deaths,99677,New York
+NY,Aug-2017,Number of Deaths,99672,New York
+NY,Aug-2018,Number of Deaths,99588,New York
+NY,Feb-2019,Number of Deaths,99567,New York
+NY,Apr-2018,Number of Deaths,99531,New York
+NY,Oct-2015,Number of Deaths,99526,New York
+NY,Jul-2018,Number of Deaths,99473,New York
+NY,Feb-2018,Number of Deaths,99469,New York
+NY,Dec-2018,Number of Deaths,99459,New York
+NY,Mar-2018,Number of Deaths,99445,New York
+NY,Nov-2017,Number of Deaths,99428,New York
+NY,Sep-2018,Number of Deaths,99398,New York
+NY,Oct-2017,Number of Deaths,99369,New York
+NY,May-2017,Number of Deaths,99358,New York
+NY,Sep-2015,Number of Deaths,99349,New York
+NY,May-2018,Number of Deaths,99310,New York
+NY,Mar-2017,Number of Deaths,99308,New York
+NY,Apr-2017,Number of Deaths,99275,New York
+NY,Jan-2018,Number of Deaths,99250,New York
+NY,Jun-2018,Number of Deaths,99240,New York
+NY,Feb-2017,Number of Deaths,99210,New York
+NY,Aug-2015,Number of Deaths,99184,New York
+NY,Nov-2015,Number of Deaths,99173,New York
+NY,Jan-2017,Number of Deaths,99099,New York
+NY,Jul-2015,Number of Deaths,98964,New York
+NY,Dec-2016,Number of Deaths,98766,New York
+NY,Jun-2015,Number of Deaths,98695,New York
+NY,May-2015,Number of Deaths,98620,New York
+NY,Dec-2015,Number of Deaths,98476,New York
+NY,Apr-2015,Number of Deaths,98250,New York
+NY,Nov-2016,Number of Deaths,98048,New York
+NY,Mar-2015,Number of Deaths,97885,New York
+NY,Jan-2016,Number of Deaths,97781,New York
+NY,Oct-2016,Number of Deaths,97512,New York
+NY,Feb-2016,Number of Deaths,97445,New York
+NY,Sep-2016,Number of Deaths,97410,New York
+NY,Aug-2016,Number of Deaths,97223,New York
+NY,Mar-2016,Number of Deaths,97131,New York
+NY,Feb-2015,Number of Deaths,97079,New York
+NY,Jul-2016,Number of Deaths,97055,New York
+NY,Apr-2016,Number of Deaths,97051,New York
+NY,Jun-2016,Number of Deaths,97038,New York
+NY,May-2016,Number of Deaths,96971,New York
+MI,Nov-2018,Number of Deaths,96718,Michigan
+MI,Jan-2019,Number of Deaths,96711,Michigan
+NY,Jan-2015,Number of Deaths,96525,New York
+MI,Oct-2018,Number of Deaths,96426,Michigan
+MI,Dec-2018,Number of Deaths,96320,Michigan
+MI,Sep-2018,Number of Deaths,96291,Michigan
+MI,Dec-2017,Number of Deaths,96266,Michigan
+MI,Aug-2017,Number of Deaths,96265,Michigan
+MI,Jul-2017,Number of Deaths,96246,Michigan
+MI,Jun-2017,Number of Deaths,96216,Michigan
+MI,Aug-2018,Number of Deaths,96200,Michigan
+MI,Feb-2019,Number of Deaths,96149,Michigan
+MI,Jun-2019,Number of Deaths,96147,Michigan
+MI,Apr-2017,Number of Deaths,96144,Michigan
+MI,May-2017,Number of Deaths,96114,Michigan
+MI,Jul-2018,Number of Deaths,96112,Michigan
+MI,Sep-2017,Number of Deaths,96087,Michigan
+MI,Mar-2019,Number of Deaths,96075,Michigan
+MI,Nov-2017,Number of Deaths,96022,Michigan
+MI,Mar-2017,Number of Deaths,96017,Michigan
+MI,May-2019,Number of Deaths,96004,Michigan
+MI,Oct-2017,Number of Deaths,95963,Michigan
+MI,Jun-2018,Number of Deaths,95871,Michigan
+MI,Feb-2018,Number of Deaths,95856,Michigan
+MI,Apr-2018,Number of Deaths,95804,Michigan
+MI,May-2018,Number of Deaths,95779,Michigan
+MI,Apr-2019,Number of Deaths,95768,Michigan
+MI,Mar-2018,Number of Deaths,95703,Michigan
+NC,Jun-2019,Number of Deaths,95628,North Carolina
+MI,Feb-2017,Number of Deaths,95549,Michigan
+MI,Jan-2018,Number of Deaths,95510,Michigan
+MI,Jan-2017,Number of Deaths,95468,Michigan
+NC,May-2019,Number of Deaths,95345,North Carolina
+MI,Aug-2015,Number of Deaths,95190,Michigan
+MI,Oct-2015,Number of Deaths,95079,Michigan
+MI,Sep-2015,Number of Deaths,95072,Michigan
+MI,Jul-2015,Number of Deaths,95051,Michigan
+MI,Jun-2015,Number of Deaths,94937,Michigan
+NC,Apr-2019,Number of Deaths,94883,North Carolina
+MI,Dec-2016,Number of Deaths,94840,Michigan
+MI,May-2015,Number of Deaths,94659,Michigan
+MI,Nov-2015,Number of Deaths,94631,Michigan
+MI,Apr-2015,Number of Deaths,94589,Michigan
+NC,Mar-2019,Number of Deaths,94441,North Carolina
+MI,Nov-2016,Number of Deaths,94283,Michigan
+MI,Mar-2015,Number of Deaths,94086,Michigan
+NC,Feb-2019,Number of Deaths,94058,North Carolina
+NC,Dec-2017,Number of Deaths,94051,North Carolina
+NC,Feb-2018,Number of Deaths,93957,North Carolina
+MI,Oct-2016,Number of Deaths,93939,Michigan
+MI,Dec-2015,Number of Deaths,93920,Michigan
+NC,Jan-2019,Number of Deaths,93818,North Carolina
+NC,Sep-2017,Number of Deaths,93790,North Carolina
+MI,Sep-2016,Number of Deaths,93753,Michigan
+NC,Oct-2017,Number of Deaths,93744,North Carolina
+NC,Jan-2018,Number of Deaths,93743,North Carolina
+NC,Nov-2018,Number of Deaths,93722,North Carolina
+NC,Nov-2017,Number of Deaths,93717,North Carolina
+NC,Dec-2018,Number of Deaths,93581,North Carolina
+MI,Feb-2015,Number of Deaths,93559,Michigan
+MI,May-2016,Number of Deaths,93535,Michigan
+NC,Oct-2018,Number of Deaths,93512,North Carolina
+NC,Aug-2017,Number of Deaths,93485,North Carolina
+MI,Jun-2016,Number of Deaths,93472,Michigan
+MI,Aug-2016,Number of Deaths,93445,Michigan
+MI,Feb-2016,Number of Deaths,93407,Michigan
+NC,Jul-2018,Number of Deaths,93407,North Carolina
+NC,Jun-2018,Number of Deaths,93406,North Carolina
+MI,Jul-2016,Number of Deaths,93394,Michigan
+NC,Aug-2018,Number of Deaths,93381,North Carolina
+MI,Apr-2016,Number of Deaths,93368,Michigan
+NC,Sep-2018,Number of Deaths,93293,North Carolina
+MI,Jan-2015,Number of Deaths,93274,Michigan
+NC,Mar-2018,Number of Deaths,93273,North Carolina
+MI,Mar-2016,Number of Deaths,93268,Michigan
+NC,Apr-2018,Number of Deaths,93177,North Carolina
+NC,Jul-2017,Number of Deaths,93142,North Carolina
+MI,Jan-2016,Number of Deaths,93137,Michigan
+NC,May-2018,Number of Deaths,93089,North Carolina
+NC,Jun-2017,Number of Deaths,92927,North Carolina
+NC,May-2017,Number of Deaths,92777,North Carolina
+NC,Apr-2017,Number of Deaths,92537,North Carolina
+NC,Mar-2017,Number of Deaths,92295,North Carolina
+NC,Feb-2017,Number of Deaths,91572,North Carolina
+NC,Jan-2017,Number of Deaths,91505,North Carolina
+NC,Dec-2016,Number of Deaths,91350,North Carolina
+NC,Nov-2016,Number of Deaths,90874,North Carolina
+NC,Oct-2016,Number of Deaths,90585,North Carolina
+NC,Sep-2016,Number of Deaths,90330,North Carolina
+NC,Aug-2016,Number of Deaths,90243,North Carolina
+NC,Nov-2015,Number of Deaths,90229,North Carolina
+NC,Oct-2015,Number of Deaths,90154,North Carolina
+NC,Jul-2016,Number of Deaths,90104,North Carolina
+NC,Dec-2015,Number of Deaths,90025,North Carolina
+NC,May-2016,Number of Deaths,90013,North Carolina
+NC,Jun-2016,Number of Deaths,90010,North Carolina
+NC,Sep-2015,Number of Deaths,90001,North Carolina
+NC,Aug-2015,Number of Deaths,89864,North Carolina
+NC,Apr-2016,Number of Deaths,89779,North Carolina
+NC,Jul-2015,Number of Deaths,89630,North Carolina
+NC,Jan-2016,Number of Deaths,89624,North Carolina
+NC,Feb-2016,Number of Deaths,89619,North Carolina
+NC,Mar-2016,Number of Deaths,89556,North Carolina
+NC,Jun-2015,Number of Deaths,89238,North Carolina
+NC,May-2015,Number of Deaths,88818,North Carolina
+NC,Apr-2015,Number of Deaths,88620,North Carolina
+NC,Mar-2015,Number of Deaths,88384,North Carolina
+NC,Feb-2015,Number of Deaths,87784,North Carolina
+NC,Jan-2015,Number of Deaths,87132,North Carolina
+GA,Jan-2019,Number of Deaths,84705,Georgia
+GA,Dec-2018,Number of Deaths,84652,Georgia
+GA,Jun-2019,Number of Deaths,84600,Georgia
+GA,Aug-2018,Number of Deaths,84519,Georgia
+GA,Nov-2018,Number of Deaths,84428,Georgia
+GA,Sep-2018,Number of Deaths,84403,Georgia
+GA,May-2019,Number of Deaths,84383,Georgia
+GA,May-2018,Number of Deaths,84375,Georgia
+GA,Apr-2019,Number of Deaths,84368,Georgia
+GA,Jun-2018,Number of Deaths,84362,Georgia
+GA,Oct-2018,Number of Deaths,84288,Georgia
+GA,Jul-2018,Number of Deaths,84285,Georgia
+GA,Mar-2019,Number of Deaths,84176,Georgia
+GA,Feb-2018,Number of Deaths,84133,Georgia
+GA,Apr-2018,Number of Deaths,84121,Georgia
+GA,Mar-2018,Number of Deaths,84006,Georgia
+GA,Feb-2019,Number of Deaths,83990,Georgia
+GA,Jan-2018,Number of Deaths,83736,Georgia
+GA,Dec-2017,Number of Deaths,83679,Georgia
+GA,Nov-2017,Number of Deaths,83665,Georgia
+GA,Oct-2017,Number of Deaths,83588,Georgia
+GA,Sep-2017,Number of Deaths,83199,Georgia
+GA,Aug-2017,Number of Deaths,83122,Georgia
+GA,Jul-2017,Number of Deaths,83087,Georgia
+GA,Jun-2017,Number of Deaths,82946,Georgia
+GA,May-2017,Number of Deaths,82813,Georgia
+GA,Apr-2017,Number of Deaths,82588,Georgia
+GA,Mar-2017,Number of Deaths,82436,Georgia
+GA,Jan-2017,Number of Deaths,82150,Georgia
+GA,Feb-2017,Number of Deaths,82143,Georgia
+GA,Dec-2016,Number of Deaths,81783,Georgia
+GA,Nov-2016,Number of Deaths,81392,Georgia
+GA,Sep-2016,Number of Deaths,81280,Georgia
+GA,Oct-2016,Number of Deaths,81277,Georgia
+GA,Aug-2016,Number of Deaths,81003,Georgia
+GA,Nov-2015,Number of Deaths,80919,Georgia
+GA,Oct-2015,Number of Deaths,80715,Georgia
+GA,Jul-2016,Number of Deaths,80602,Georgia
+GA,Dec-2015,Number of Deaths,80541,Georgia
+GA,Jun-2016,Number of Deaths,80535,Georgia
+GA,May-2016,Number of Deaths,80430,Georgia
+GA,Apr-2016,Number of Deaths,80405,Georgia
+GA,Sep-2015,Number of Deaths,80392,Georgia
+GA,Mar-2016,Number of Deaths,80292,Georgia
+GA,Feb-2016,Number of Deaths,80280,Georgia
+GA,Jan-2016,Number of Deaths,80247,Georgia
+GA,Aug-2015,Number of Deaths,80081,Georgia
+GA,Jul-2015,Number of Deaths,79994,Georgia
+GA,Jun-2015,Number of Deaths,79559,Georgia
+GA,May-2015,Number of Deaths,79186,Georgia
+GA,Apr-2015,Number of Deaths,79111,Georgia
+GA,Mar-2015,Number of Deaths,78805,Georgia
+GA,Feb-2015,Number of Deaths,78215,Georgia
+GA,Jan-2015,Number of Deaths,77687,Georgia
+TN,Jun-2019,Number of Deaths,75070,Tennessee
+TN,May-2019,Number of Deaths,74841,Tennessee
+TN,Apr-2019,Number of Deaths,74497,Tennessee
+NJ,Jan-2019,Number of Deaths,74281,New Jersey
+NJ,Mar-2019,Number of Deaths,74243,New Jersey
+NJ,Jun-2019,Number of Deaths,74203,New Jersey
+NJ,May-2019,Number of Deaths,74201,New Jersey
+NJ,Feb-2019,Number of Deaths,74186,New Jersey
+TN,Nov-2018,Number of Deaths,74172,Tennessee
+NJ,Sep-2017,Number of Deaths,74165,New Jersey
+NJ,Nov-2018,Number of Deaths,74135,New Jersey
+TN,Mar-2019,Number of Deaths,74090,Tennessee
+TN,Aug-2018,Number of Deaths,74089,Tennessee
+NJ,Apr-2019,Number of Deaths,74022,New Jersey
+TN,Dec-2018,Number of Deaths,74002,Tennessee
+TN,Jan-2019,Number of Deaths,73994,Tennessee
+TN,Oct-2018,Number of Deaths,73992,Tennessee
+TN,Sep-2018,Number of Deaths,73980,Tennessee
+NJ,Aug-2017,Number of Deaths,73969,New Jersey
+NJ,Dec-2017,Number of Deaths,73945,New Jersey
+NJ,Jul-2017,Number of Deaths,73912,New Jersey
+NJ,Oct-2018,Number of Deaths,73910,New Jersey
+TN,Feb-2019,Number of Deaths,73905,Tennessee
+TN,Jul-2018,Number of Deaths,73895,Tennessee
+NJ,Dec-2018,Number of Deaths,73881,New Jersey
+TN,Feb-2018,Number of Deaths,73865,Tennessee
+NJ,Jun-2017,Number of Deaths,73836,New Jersey
+NJ,Oct-2017,Number of Deaths,73827,New Jersey
+TN,Jun-2018,Number of Deaths,73781,Tennessee
+NJ,May-2017,Number of Deaths,73744,New Jersey
+NJ,Nov-2017,Number of Deaths,73722,New Jersey
+TN,Dec-2017,Number of Deaths,73694,Tennessee
+TN,May-2018,Number of Deaths,73646,Tennessee
+TN,Jan-2018,Number of Deaths,73600,Tennessee
+TN,Mar-2018,Number of Deaths,73549,Tennessee
+NJ,Aug-2018,Number of Deaths,73515,New Jersey
+TN,Apr-2018,Number of Deaths,73504,Tennessee
+NJ,Apr-2017,Number of Deaths,73487,New Jersey
+NJ,Sep-2018,Number of Deaths,73445,New Jersey
+TN,Nov-2017,Number of Deaths,73388,Tennessee
+NJ,Jul-2018,Number of Deaths,73368,New Jersey
+NJ,Feb-2018,Number of Deaths,73322,New Jersey
+NJ,Jan-2018,Number of Deaths,73273,New Jersey
+NJ,Mar-2017,Number of Deaths,73272,New Jersey
+NJ,Mar-2018,Number of Deaths,73252,New Jersey
+NJ,Apr-2018,Number of Deaths,73176,New Jersey
+TN,Oct-2017,Number of Deaths,73144,Tennessee
+TN,Sep-2017,Number of Deaths,73109,Tennessee
+NJ,Jun-2018,Number of Deaths,73085,New Jersey
+NJ,Feb-2017,Number of Deaths,73064,New Jersey
+NJ,May-2018,Number of Deaths,72987,New Jersey
+TN,Jul-2017,Number of Deaths,72803,Tennessee
+TN,Aug-2017,Number of Deaths,72760,Tennessee
+NJ,Jan-2017,Number of Deaths,72707,New Jersey
+TN,Jun-2017,Number of Deaths,72564,Tennessee
+TN,May-2017,Number of Deaths,72562,Tennessee
+TN,Apr-2017,Number of Deaths,72491,Tennessee
+TN,Mar-2017,Number of Deaths,72285,Tennessee
+NJ,Dec-2016,Number of Deaths,72082,New Jersey
+TN,Feb-2017,Number of Deaths,71921,Tennessee
+TN,Jan-2017,Number of Deaths,71835,Tennessee
+NJ,Mar-2015,Number of Deaths,71756,New Jersey
+NJ,Oct-2015,Number of Deaths,71671,New Jersey
+NJ,Sep-2015,Number of Deaths,71636,New Jersey
+NJ,Aug-2015,Number of Deaths,71571,New Jersey
+NJ,Apr-2015,Number of Deaths,71525,New Jersey
+NJ,Nov-2015,Number of Deaths,71524,New Jersey
+NJ,Feb-2015,Number of Deaths,71521,New Jersey
+TN,Dec-2016,Number of Deaths,71506,Tennessee
+NJ,Jul-2015,Number of Deaths,71495,New Jersey
+NJ,Nov-2016,Number of Deaths,71423,New Jersey
+NJ,May-2015,Number of Deaths,71394,New Jersey
+NJ,Jun-2015,Number of Deaths,71384,New Jersey
+NJ,Dec-2015,Number of Deaths,71109,New Jersey
+TN,Nov-2016,Number of Deaths,71016,Tennessee
+NJ,Jan-2015,Number of Deaths,70998,New Jersey
+TN,Oct-2016,Number of Deaths,70978,Tennessee
+NJ,Oct-2016,Number of Deaths,70935,New Jersey
+TN,Sep-2016,Number of Deaths,70720,Tennessee
+TN,Aug-2016,Number of Deaths,70716,Tennessee
+NJ,Sep-2016,Number of Deaths,70684,New Jersey
+TN,Nov-2015,Number of Deaths,70639,Tennessee
+TN,Oct-2015,Number of Deaths,70607,Tennessee
+NJ,Aug-2016,Number of Deaths,70539,New Jersey
+TN,Jul-2016,Number of Deaths,70501,Tennessee
+TN,Jun-2016,Number of Deaths,70390,Tennessee
+TN,Sep-2015,Number of Deaths,70350,Tennessee
+NJ,Jan-2016,Number of Deaths,70318,New Jersey
+NJ,Jul-2016,Number of Deaths,70297,New Jersey
+NJ,Jun-2016,Number of Deaths,70249,New Jersey
+TN,Aug-2015,Number of Deaths,70246,Tennessee
+TN,Dec-2015,Number of Deaths,70237,Tennessee
+TN,May-2016,Number of Deaths,70208,Tennessee
+NJ,May-2016,Number of Deaths,70157,New Jersey
+TN,Apr-2016,Number of Deaths,70136,Tennessee
+NJ,Apr-2016,Number of Deaths,70126,New Jersey
+TN,Jul-2015,Number of Deaths,70091,Tennessee
+NJ,Mar-2016,Number of Deaths,69997,New Jersey
+NJ,Feb-2016,Number of Deaths,69990,New Jersey
+TN,Mar-2016,Number of Deaths,69856,Tennessee
+TN,Jun-2015,Number of Deaths,69812,Tennessee
+TN,Feb-2016,Number of Deaths,69746,Tennessee
+TN,Jan-2016,Number of Deaths,69729,Tennessee
+TN,May-2015,Number of Deaths,69611,Tennessee
+TN,Mar-2015,Number of Deaths,69559,Tennessee
+TN,Apr-2015,Number of Deaths,69550,Tennessee
+TN,Feb-2015,Number of Deaths,69161,Tennessee
+VA,Jun-2019,Number of Deaths,68998,Virginia
+TN,Jan-2015,Number of Deaths,68744,Tennessee
+VA,May-2019,Number of Deaths,68646,Virginia
+VA,Apr-2019,Number of Deaths,68215,Virginia
+VA,Mar-2019,Number of Deaths,68079,Virginia
+VA,Feb-2019,Number of Deaths,67830,Virginia
+VA,Jan-2019,Number of Deaths,67813,Virginia
+VA,Dec-2017,Number of Deaths,67731,Virginia
+VA,Nov-2018,Number of Deaths,67642,Virginia
+VA,Dec-2018,Number of Deaths,67576,Virginia
+VA,Oct-2018,Number of Deaths,67495,Virginia
+VA,Feb-2018,Number of Deaths,67408,Virginia
+VA,Nov-2017,Number of Deaths,67392,Virginia
+VA,Sep-2017,Number of Deaths,67367,Virginia
+VA,Oct-2017,Number of Deaths,67361,Virginia
+VA,Jan-2018,Number of Deaths,67333,Virginia
+VA,Sep-2018,Number of Deaths,67195,Virginia
+VA,Aug-2018,Number of Deaths,67191,Virginia
+VA,Mar-2018,Number of Deaths,67151,Virginia
+VA,Apr-2018,Number of Deaths,67129,Virginia
+VA,Jul-2018,Number of Deaths,67070,Virginia
+VA,Aug-2017,Number of Deaths,67019,Virginia
+VA,May-2018,Number of Deaths,66971,Virginia
+VA,Jun-2017,Number of Deaths,66968,Virginia
+VA,Jul-2017,Number of Deaths,66944,Virginia
+VA,Jun-2018,Number of Deaths,66920,Virginia
+VA,May-2017,Number of Deaths,66775,Virginia
+VA,Apr-2017,Number of Deaths,66754,Virginia
+VA,Mar-2017,Number of Deaths,66446,Virginia
+VA,Feb-2017,Number of Deaths,66107,Virginia
+IN,Sep-2017,Number of Deaths,66057,Indiana
+IN,Dec-2017,Number of Deaths,66053,Indiana
+IN,Oct-2017,Number of Deaths,66020,Indiana
+IN,Nov-2017,Number of Deaths,66004,Indiana
+VA,Jan-2017,Number of Deaths,65965,Virginia
+IN,Jul-2017,Number of Deaths,65911,Indiana
+IN,Aug-2017,Number of Deaths,65909,Indiana
+IN,Jun-2019,Number of Deaths,65872,Indiana
+IN,Jun-2017,Number of Deaths,65867,Indiana
+IN,Jan-2018,Number of Deaths,65757,Indiana
+IN,May-2019,Number of Deaths,65672,Indiana
+IN,Feb-2018,Number of Deaths,65635,Indiana
+VA,Dec-2016,Number of Deaths,65580,Virginia
+IN,May-2017,Number of Deaths,65558,Indiana
+IN,Nov-2018,Number of Deaths,65466,Indiana
+IN,Oct-2018,Number of Deaths,65458,Indiana
+IN,Apr-2019,Number of Deaths,65405,Indiana
+IN,Mar-2019,Number of Deaths,65396,Indiana
+IN,Sep-2018,Number of Deaths,65391,Indiana
+IN,Dec-2018,Number of Deaths,65365,Indiana
+IN,Aug-2018,Number of Deaths,65362,Indiana
+IN,May-2018,Number of Deaths,65356,Indiana
+IN,Mar-2018,Number of Deaths,65332,Indiana
+IN,Apr-2017,Number of Deaths,65321,Indiana
+IN,Apr-2018,Number of Deaths,65321,Indiana
+IN,Jan-2019,Number of Deaths,65304,Indiana
+IN,Feb-2019,Number of Deaths,65268,Indiana
+IN,Jul-2018,Number of Deaths,65254,Indiana
+IN,Jun-2018,Number of Deaths,65229,Indiana
+VA,Nov-2016,Number of Deaths,65204,Virginia
+VA,Oct-2015,Number of Deaths,65166,Virginia
+VA,Nov-2015,Number of Deaths,65089,Virginia
+IN,Mar-2017,Number of Deaths,65084,Indiana
+VA,Sep-2015,Number of Deaths,65030,Virginia
+VA,Oct-2016,Number of Deaths,64975,Virginia
+MO,Nov-2018,Number of Deaths,64970,Missouri
+MO,Oct-2018,Number of Deaths,64916,Missouri
+VA,Aug-2015,Number of Deaths,64848,Virginia
+VA,Aug-2016,Number of Deaths,64813,Virginia
+IN,Feb-2017,Number of Deaths,64783,Indiana
+VA,Jul-2016,Number of Deaths,64782,Virginia
+VA,Dec-2015,Number of Deaths,64760,Virginia
+MO,Sep-2018,Number of Deaths,64742,Missouri
+VA,Sep-2016,Number of Deaths,64726,Virginia
+MO,Aug-2018,Number of Deaths,64684,Missouri
+MO,Dec-2018,Number of Deaths,64669,Missouri
+MO,Jun-2018,Number of Deaths,64613,Missouri
+MO,May-2018,Number of Deaths,64569,Missouri
+VA,Jun-2016,Number of Deaths,64560,Virginia
+VA,Jul-2015,Number of Deaths,64525,Virginia
+MO,Jul-2018,Number of Deaths,64509,Missouri
+IN,Jan-2017,Number of Deaths,64506,Indiana
+MO,Apr-2018,Number of Deaths,64463,Missouri
+VA,Jun-2015,Number of Deaths,64455,Virginia
+MO,Jan-2019,Number of Deaths,64412,Missouri
+VA,May-2015,Number of Deaths,64403,Virginia
+VA,May-2016,Number of Deaths,64400,Virginia
+VA,Apr-2015,Number of Deaths,64331,Virginia
+MO,Dec-2017,Number of Deaths,64202,Missouri
+MO,Jun-2019,Number of Deaths,64169,Missouri
+VA,Mar-2016,Number of Deaths,64135,Virginia
+MO,Feb-2018,Number of Deaths,64130,Missouri
+MO,Mar-2019,Number of Deaths,64125,Missouri
+VA,Mar-2015,Number of Deaths,64114,Virginia
+MO,Feb-2019,Number of Deaths,64102,Missouri
+VA,Apr-2016,Number of Deaths,64102,Virginia
+MO,Mar-2018,Number of Deaths,64066,Missouri
+IN,Dec-2016,Number of Deaths,64051,Indiana
+MO,May-2019,Number of Deaths,64047,Missouri
+VA,Jan-2016,Number of Deaths,64036,Virginia
+MO,Nov-2017,Number of Deaths,64027,Missouri
+VA,Feb-2016,Number of Deaths,63994,Virginia
+MO,Jan-2018,Number of Deaths,63974,Missouri
+MO,Sep-2017,Number of Deaths,63926,Missouri
+MO,Apr-2019,Number of Deaths,63902,Missouri
+VA,Feb-2015,Number of Deaths,63896,Virginia
+MO,Oct-2017,Number of Deaths,63893,Missouri
+IN,Sep-2015,Number of Deaths,63837,Indiana
+IN,Oct-2015,Number of Deaths,63829,Indiana
+MO,Aug-2017,Number of Deaths,63740,Missouri
+IN,Aug-2015,Number of Deaths,63694,Indiana
+MO,Jul-2017,Number of Deaths,63679,Missouri
+IN,Nov-2015,Number of Deaths,63655,Indiana
+IN,Nov-2016,Number of Deaths,63580,Indiana
+IN,Jul-2015,Number of Deaths,63570,Indiana
+MO,Mar-2017,Number of Deaths,63553,Missouri
+IN,Jun-2015,Number of Deaths,63517,Indiana
+MO,Jun-2017,Number of Deaths,63516,Missouri
+IN,May-2015,Number of Deaths,63491,Indiana
+MO,May-2017,Number of Deaths,63485,Missouri
+VA,Jan-2015,Number of Deaths,63414,Virginia
+IN,Apr-2015,Number of Deaths,63354,Indiana
+MO,Apr-2017,Number of Deaths,63345,Missouri
+IN,Dec-2015,Number of Deaths,63255,Indiana
+IN,Oct-2016,Number of Deaths,63185,Indiana
+MO,Feb-2017,Number of Deaths,63125,Missouri
+IN,Mar-2016,Number of Deaths,62968,Indiana
+IN,Aug-2016,Number of Deaths,62933,Indiana
+IN,Sep-2016,Number of Deaths,62891,Indiana
+IN,Mar-2015,Number of Deaths,62886,Indiana
+IN,Feb-2016,Number of Deaths,62863,Indiana
+IN,Apr-2016,Number of Deaths,62811,Indiana
+IN,Jul-2016,Number of Deaths,62795,Indiana
+MO,Jan-2017,Number of Deaths,62663,Missouri
+IN,Jun-2016,Number of Deaths,62648,Indiana
+IN,May-2016,Number of Deaths,62632,Indiana
+IN,Jan-2016,Number of Deaths,62610,Indiana
+MO,Oct-2015,Number of Deaths,62571,Missouri
+MO,Nov-2015,Number of Deaths,62541,Missouri
+MO,Sep-2015,Number of Deaths,62510,Missouri
+IN,Feb-2015,Number of Deaths,62377,Indiana
+MO,Aug-2015,Number of Deaths,62314,Missouri
+MO,Jul-2015,Number of Deaths,62257,Missouri
+IN,Jan-2015,Number of Deaths,62174,Indiana
+MO,May-2015,Number of Deaths,62138,Missouri
+MO,Jun-2015,Number of Deaths,62053,Missouri
+MO,Dec-2015,Number of Deaths,61995,Missouri
+MO,Apr-2015,Number of Deaths,61945,Missouri
+MO,Dec-2016,Number of Deaths,61888,Missouri
+MO,Mar-2015,Number of Deaths,61767,Missouri
+MO,Feb-2015,Number of Deaths,61478,Missouri
+MO,Jan-2016,Number of Deaths,61427,Missouri
+MO,Nov-2016,Number of Deaths,61411,Missouri
+MO,Oct-2016,Number of Deaths,61393,Missouri
+MO,Aug-2016,Number of Deaths,61319,Missouri
+MO,Sep-2016,Number of Deaths,61271,Missouri
+MO,Feb-2016,Number of Deaths,61186,Missouri
+MO,Jun-2016,Number of Deaths,61135,Missouri
+MO,Jul-2016,Number of Deaths,61118,Missouri
+MO,Apr-2016,Number of Deaths,61039,Missouri
+MO,May-2016,Number of Deaths,60964,Missouri
+MO,Mar-2016,Number of Deaths,60919,Missouri
+MO,Jan-2015,Number of Deaths,60902,Missouri
+AZ,May-2019,Number of Deaths,60019,Arizona
+AZ,Jun-2019,Number of Deaths,60017,Arizona
+MA,Jan-2019,Number of Deaths,59754,Massachusetts
+MA,Apr-2019,Number of Deaths,59733,Massachusetts
+MA,Dec-2017,Number of Deaths,59727,Massachusetts
+MA,Feb-2019,Number of Deaths,59672,Massachusetts
+MA,Mar-2019,Number of Deaths,59658,Massachusetts
+AZ,Apr-2019,Number of Deaths,59656,Arizona
+MA,Oct-2017,Number of Deaths,59624,Massachusetts
+MA,Aug-2017,Number of Deaths,59589,Massachusetts
+MA,Nov-2017,Number of Deaths,59559,Massachusetts
+AZ,Jan-2019,Number of Deaths,59541,Arizona
+MA,Sep-2017,Number of Deaths,59535,Massachusetts
+AZ,Mar-2019,Number of Deaths,59527,Arizona
+MA,May-2019,Number of Deaths,59523,Massachusetts
+AZ,Nov-2018,Number of Deaths,59500,Arizona
+AZ,Sep-2018,Number of Deaths,59481,Arizona
+MA,Jun-2019,Number of Deaths,59475,Massachusetts
+AZ,Feb-2019,Number of Deaths,59464,Arizona
+AZ,Oct-2018,Number of Deaths,59459,Arizona
+MA,Jul-2017,Number of Deaths,59435,Massachusetts
+AZ,Apr-2018,Number of Deaths,59421,Arizona
+AZ,Aug-2018,Number of Deaths,59413,Arizona
+AZ,Dec-2018,Number of Deaths,59316,Arizona
+AZ,Mar-2018,Number of Deaths,59302,Arizona
+AZ,May-2018,Number of Deaths,59302,Arizona
+AZ,Jul-2018,Number of Deaths,59289,Arizona
+MA,Dec-2018,Number of Deaths,59255,Massachusetts
+MA,Jan-2018,Number of Deaths,59243,Massachusetts
+MA,Oct-2018,Number of Deaths,59237,Massachusetts
+AZ,Jun-2018,Number of Deaths,59231,Arizona
+MA,Nov-2018,Number of Deaths,59193,Massachusetts
+MA,Jun-2017,Number of Deaths,59166,Massachusetts
+MA,Oct-2015,Number of Deaths,59151,Massachusetts
+MA,Sep-2018,Number of Deaths,59143,Massachusetts
+MA,Jul-2018,Number of Deaths,59132,Massachusetts
+MA,Jun-2018,Number of Deaths,59108,Massachusetts
+MA,Nov-2015,Number of Deaths,59104,Massachusetts
+MA,Apr-2017,Number of Deaths,59087,Massachusetts
+MA,May-2017,Number of Deaths,59072,Massachusetts
+MA,May-2018,Number of Deaths,59072,Massachusetts
+MA,Feb-2018,Number of Deaths,59067,Massachusetts
+AZ,Feb-2018,Number of Deaths,59010,Arizona
+MA,Mar-2018,Number of Deaths,58985,Massachusetts
+MA,Mar-2017,Number of Deaths,58965,Massachusetts
+MA,Aug-2018,Number of Deaths,58961,Massachusetts
+MA,Sep-2015,Number of Deaths,58924,Massachusetts
+MA,Apr-2018,Number of Deaths,58853,Massachusetts
+MA,Feb-2017,Number of Deaths,58797,Massachusetts
+MA,Aug-2015,Number of Deaths,58790,Massachusetts
+MA,Dec-2015,Number of Deaths,58761,Massachusetts
+MA,Jul-2015,Number of Deaths,58729,Massachusetts
+AZ,Jan-2018,Number of Deaths,58696,Arizona
+MA,Jun-2015,Number of Deaths,58523,Massachusetts
+MA,Jan-2017,Number of Deaths,58454,Massachusetts
+AZ,Dec-2017,Number of Deaths,58440,Arizona
+MA,May-2015,Number of Deaths,58356,Massachusetts
+MA,Apr-2015,Number of Deaths,58197,Massachusetts
+MA,Mar-2015,Number of Deaths,58056,Massachusetts
+MA,Jan-2016,Number of Deaths,57874,Massachusetts
+MA,Dec-2016,Number of Deaths,57861,Massachusetts
+AZ,Nov-2017,Number of Deaths,57852,Arizona
+WA,Jun-2019,Number of Deaths,57761,Washington
+AZ,Oct-2017,Number of Deaths,57694,Arizona
+WA,May-2019,Number of Deaths,57687,Washington
+MA,Feb-2015,Number of Deaths,57676,Massachusetts
+AZ,Sep-2017,Number of Deaths,57531,Arizona
+MA,Feb-2016,Number of Deaths,57469,Massachusetts
+MA,Nov-2016,Number of Deaths,57362,Massachusetts
+WA,Apr-2019,Number of Deaths,57343,Washington
+AZ,Aug-2017,Number of Deaths,57310,Arizona
+AZ,Oct-2016,Number of Deaths,57277,Arizona
+WA,Mar-2019,Number of Deaths,57259,Washington
+AZ,Nov-2016,Number of Deaths,57252,Arizona
+MA,Mar-2016,Number of Deaths,57250,Massachusetts
+AZ,Jan-2017,Number of Deaths,57221,Arizona
+AZ,Dec-2016,Number of Deaths,57215,Arizona
+AZ,Jul-2017,Number of Deaths,57215,Arizona
+MA,Sep-2016,Number of Deaths,57129,Massachusetts
+MA,Apr-2016,Number of Deaths,57077,Massachusetts
+MA,Oct-2016,Number of Deaths,57073,Massachusetts
+WA,Feb-2019,Number of Deaths,57052,Washington
+AZ,Sep-2016,Number of Deaths,57051,Arizona
+MA,Jan-2015,Number of Deaths,57044,Massachusetts
+AZ,Jun-2017,Number of Deaths,57013,Arizona
+WA,Nov-2017,Number of Deaths,57004,Washington
+MA,Aug-2016,Number of Deaths,56981,Massachusetts
+WA,Dec-2017,Number of Deaths,56980,Washington
+AZ,Aug-2016,Number of Deaths,56960,Arizona
+MA,Jun-2016,Number of Deaths,56937,Massachusetts
+MA,May-2016,Number of Deaths,56934,Massachusetts
+AZ,Jul-2016,Number of Deaths,56865,Arizona
+WA,Jan-2019,Number of Deaths,56820,Washington
+MA,Jul-2016,Number of Deaths,56793,Massachusetts
+AZ,May-2017,Number of Deaths,56721,Arizona
+AZ,Jun-2016,Number of Deaths,56648,Arizona
+WA,Oct-2017,Number of Deaths,56641,Washington
+AZ,Feb-2017,Number of Deaths,56609,Arizona
+WA,Sep-2017,Number of Deaths,56600,Washington
+AZ,May-2016,Number of Deaths,56522,Arizona
+WA,Aug-2017,Number of Deaths,56505,Washington
+AZ,Apr-2017,Number of Deaths,56454,Arizona
+AZ,Apr-2016,Number of Deaths,56436,Arizona
+WA,Oct-2018,Number of Deaths,56433,Washington
+WA,Jul-2018,Number of Deaths,56403,Washington
+WA,Nov-2018,Number of Deaths,56399,Washington
+WA,Aug-2018,Number of Deaths,56324,Washington
+AZ,Mar-2016,Number of Deaths,56319,Arizona
+AZ,Mar-2017,Number of Deaths,56269,Arizona
+WA,Dec-2018,Number of Deaths,56251,Washington
+WA,Sep-2018,Number of Deaths,56247,Washington
+WA,May-2017,Number of Deaths,56195,Washington
+WA,Jul-2017,Number of Deaths,56178,Washington
+WA,Jun-2018,Number of Deaths,56161,Washington
+WA,Mar-2017,Number of Deaths,56124,Washington
+WA,Jun-2017,Number of Deaths,56115,Washington
+WA,Apr-2017,Number of Deaths,56114,Washington
+WA,Feb-2017,Number of Deaths,56091,Washington
+WA,Apr-2018,Number of Deaths,55897,Washington
+WA,May-2018,Number of Deaths,55862,Washington
+WA,Jan-2017,Number of Deaths,55778,Washington
+WA,Jan-2018,Number of Deaths,55761,Washington
+AZ,Feb-2016,Number of Deaths,55755,Arizona
+WA,Mar-2018,Number of Deaths,55660,Washington
+WA,Feb-2018,Number of Deaths,55489,Washington
+AZ,Jan-2016,Number of Deaths,54917,Arizona
+AZ,Dec-2015,Number of Deaths,54853,Arizona
+WA,Apr-2016,Number of Deaths,54840,Washington
+WA,Dec-2016,Number of Deaths,54767,Washington
+WA,May-2016,Number of Deaths,54753,Washington
+WA,Mar-2016,Number of Deaths,54741,Washington
+WA,Jun-2016,Number of Deaths,54715,Washington
+WA,Oct-2016,Number of Deaths,54690,Washington
+WA,Feb-2016,Number of Deaths,54675,Washington
+WA,Jul-2016,Number of Deaths,54657,Washington
+WA,Aug-2016,Number of Deaths,54630,Washington
+WA,Dec-2015,Number of Deaths,54629,Washington
+WA,Nov-2016,Number of Deaths,54609,Washington
+WA,Sep-2016,Number of Deaths,54583,Washington
+YC,Oct-2015,Number of Deaths,54572,New York City
+YC,Jan-2017,Number of Deaths,54566,New York City
+YC,Jan-2019,Number of Deaths,54509,New York City
+YC,Aug-2015,Number of Deaths,54505,New York City
+WA,Nov-2015,Number of Deaths,54460,Washington
+WA,Oct-2015,Number of Deaths,54453,Washington
+YC,Sep-2015,Number of Deaths,54449,New York City
+WA,Jan-2016,Number of Deaths,54442,Washington
+AZ,Nov-2015,Number of Deaths,54421,Arizona
+YC,Jun-2019,Number of Deaths,54411,New York City
+YC,Feb-2017,Number of Deaths,54403,New York City
+YC,Mar-2019,Number of Deaths,54385,New York City
+YC,Nov-2018,Number of Deaths,54383,New York City
+YC,May-2019,Number of Deaths,54379,New York City
+YC,Feb-2019,Number of Deaths,54364,New York City
+YC,Sep-2017,Number of Deaths,54331,New York City
+WA,Sep-2015,Number of Deaths,54328,Washington
+YC,Oct-2018,Number of Deaths,54328,New York City
+YC,Nov-2015,Number of Deaths,54320,New York City
+YC,Dec-2017,Number of Deaths,54319,New York City
+YC,Jul-2015,Number of Deaths,54291,New York City
+YC,Oct-2017,Number of Deaths,54287,New York City
+YC,Dec-2016,Number of Deaths,54280,New York City
+YC,Dec-2018,Number of Deaths,54279,New York City
+YC,Apr-2018,Number of Deaths,54254,New York City
+YC,Apr-2019,Number of Deaths,54249,New York City
+YC,Jun-2017,Number of Deaths,54245,New York City
+YC,Nov-2017,Number of Deaths,54241,New York City
+YC,Jul-2018,Number of Deaths,54213,New York City
+YC,Jul-2017,Number of Deaths,54200,New York City
+YC,May-2017,Number of Deaths,54194,New York City
+YC,Aug-2017,Number of Deaths,54191,New York City
+YC,Mar-2018,Number of Deaths,54180,New York City
+YC,Jun-2018,Number of Deaths,54177,New York City
+YC,Aug-2018,Number of Deaths,54171,New York City
+YC,Sep-2018,Number of Deaths,54152,New York City
+YC,Mar-2015,Number of Deaths,54149,New York City
+YC,Mar-2017,Number of Deaths,54145,New York City
+AZ,Oct-2015,Number of Deaths,54122,Arizona
+YC,Dec-2015,Number of Deaths,54120,New York City
+YC,Feb-2018,Number of Deaths,54108,New York City
+YC,Jun-2015,Number of Deaths,54107,New York City
+YC,Feb-2015,Number of Deaths,54100,New York City
+YC,May-2018,Number of Deaths,54098,New York City
+YC,Apr-2017,Number of Deaths,54067,New York City
+AZ,Sep-2015,Number of Deaths,54058,Arizona
+YC,May-2015,Number of Deaths,54029,New York City
+WA,Aug-2015,Number of Deaths,54015,Washington
+YC,Apr-2015,Number of Deaths,53978,New York City
+WA,Jul-2015,Number of Deaths,53954,Washington
+YC,Jan-2018,Number of Deaths,53928,New York City
+AZ,Aug-2015,Number of Deaths,53907,Arizona
+YC,Nov-2016,Number of Deaths,53882,New York City
+AZ,Jul-2015,Number of Deaths,53685,Arizona
+WA,Jun-2015,Number of Deaths,53657,Washington
+YC,Jan-2016,Number of Deaths,53624,New York City
+YC,Mar-2016,Number of Deaths,53547,New York City
+YC,Oct-2016,Number of Deaths,53545,New York City
+YC,Sep-2016,Number of Deaths,53533,New York City
+YC,Jan-2015,Number of Deaths,53516,New York City
+YC,Apr-2016,Number of Deaths,53516,New York City
+YC,Jul-2016,Number of Deaths,53502,New York City
+YC,May-2016,Number of Deaths,53496,New York City
+YC,Aug-2016,Number of Deaths,53485,New York City
+AZ,Jun-2015,Number of Deaths,53462,Arizona
+YC,Jun-2016,Number of Deaths,53435,New York City
+YC,Feb-2016,Number of Deaths,53421,New York City
+WA,May-2015,Number of Deaths,53397,Washington
+AZ,May-2015,Number of Deaths,53225,Arizona
+WI,Jun-2019,Number of Deaths,53177,Wisconsin
+WI,Jan-2019,Number of Deaths,53137,Wisconsin
+WI,Oct-2018,Number of Deaths,53058,Wisconsin
+WI,May-2019,Number of Deaths,53040,Wisconsin
+AZ,Apr-2015,Number of Deaths,53025,Arizona
+WI,Nov-2018,Number of Deaths,53021,Wisconsin
+WA,Apr-2015,Number of Deaths,53014,Washington
+WI,Feb-2019,Number of Deaths,52931,Wisconsin
+WI,Mar-2019,Number of Deaths,52929,Wisconsin
+WI,Aug-2018,Number of Deaths,52925,Wisconsin
+WI,Apr-2019,Number of Deaths,52908,Wisconsin
+WI,Sep-2018,Number of Deaths,52896,Wisconsin
+WA,Mar-2015,Number of Deaths,52850,Washington
+WI,Dec-2018,Number of Deaths,52844,Wisconsin
+AZ,Mar-2015,Number of Deaths,52826,Arizona
+WI,Jul-2018,Number of Deaths,52778,Wisconsin
+AL,Jun-2019,Number of Deaths,52772,Alabama
+AL,Aug-2018,Number of Deaths,52752,Alabama
+AL,Jul-2018,Number of Deaths,52730,Alabama
+AL,May-2019,Number of Deaths,52694,Alabama
+AL,Oct-2018,Number of Deaths,52666,Alabama
+AL,Nov-2018,Number of Deaths,52643,Alabama
+AL,Sep-2018,Number of Deaths,52641,Alabama
+AL,Jun-2018,Number of Deaths,52626,Alabama
+WI,Apr-2018,Number of Deaths,52610,Wisconsin
+WI,Jun-2018,Number of Deaths,52608,Wisconsin
+WI,May-2018,Number of Deaths,52603,Wisconsin
+WA,Feb-2015,Number of Deaths,52591,Washington
+WI,Dec-2017,Number of Deaths,52591,Wisconsin
+AL,Apr-2019,Number of Deaths,52576,Alabama
+AL,Dec-2018,Number of Deaths,52563,Alabama
+AL,Jan-2019,Number of Deaths,52556,Alabama
+AL,Mar-2019,Number of Deaths,52545,Alabama
+AL,May-2018,Number of Deaths,52540,Alabama
+WI,Nov-2017,Number of Deaths,52528,Wisconsin
+AL,Feb-2018,Number of Deaths,52526,Alabama
+AL,Apr-2018,Number of Deaths,52501,Alabama
+WA,Jan-2015,Number of Deaths,52487,Washington
+AL,Mar-2018,Number of Deaths,52476,Alabama
+WI,Mar-2018,Number of Deaths,52465,Wisconsin
+AL,Feb-2019,Number of Deaths,52450,Alabama
+WI,Oct-2017,Number of Deaths,52401,Wisconsin
+WI,Sep-2017,Number of Deaths,52393,Wisconsin
+WI,Feb-2018,Number of Deaths,52384,Wisconsin
+AZ,Feb-2015,Number of Deaths,52371,Arizona
+AL,Jan-2018,Number of Deaths,52351,Alabama
+AZ,Jan-2015,Number of Deaths,52342,Arizona
+AL,Dec-2017,Number of Deaths,52307,Alabama
+WI,Jan-2018,Number of Deaths,52282,Wisconsin
+WI,Jul-2017,Number of Deaths,52278,Wisconsin
+WI,Aug-2017,Number of Deaths,52273,Wisconsin
+AL,Oct-2017,Number of Deaths,52267,Alabama
+AL,Nov-2017,Number of Deaths,52254,Alabama
+AL,Sep-2017,Number of Deaths,52232,Alabama
+WI,Jun-2017,Number of Deaths,52162,Wisconsin
+AL,Aug-2017,Number of Deaths,52075,Alabama
+AL,Jul-2017,Number of Deaths,52035,Alabama
+AL,Jun-2017,Number of Deaths,52000,Alabama
+WI,May-2017,Number of Deaths,51987,Wisconsin
+AL,May-2017,Number of Deaths,51943,Alabama
+WI,Jan-2017,Number of Deaths,51923,Wisconsin
+WI,Feb-2017,Number of Deaths,51891,Wisconsin
+WI,Apr-2017,Number of Deaths,51832,Wisconsin
+WI,Mar-2017,Number of Deaths,51824,Wisconsin
+AL,Apr-2017,Number of Deaths,51794,Alabama
+AL,Mar-2017,Number of Deaths,51668,Alabama
+AL,Jan-2017,Number of Deaths,51652,Alabama
+WI,Dec-2016,Number of Deaths,51650,Wisconsin
+AL,Feb-2017,Number of Deaths,51542,Alabama
+WI,Oct-2015,Number of Deaths,51449,Wisconsin
+AL,Dec-2016,Number of Deaths,51431,Alabama
+WI,Sep-2015,Number of Deaths,51390,Wisconsin
+WI,Apr-2015,Number of Deaths,51340,Wisconsin
+WI,Aug-2015,Number of Deaths,51338,Wisconsin
+WI,Nov-2016,Number of Deaths,51336,Wisconsin
+WI,Jul-2015,Number of Deaths,51319,Wisconsin
+WI,Jun-2015,Number of Deaths,51287,Wisconsin
+WI,Nov-2015,Number of Deaths,51286,Wisconsin
+WI,Sep-2016,Number of Deaths,51256,Wisconsin
+WI,Aug-2016,Number of Deaths,51239,Wisconsin
+WI,May-2015,Number of Deaths,51231,Wisconsin
+WI,Oct-2016,Number of Deaths,51210,Wisconsin
+WI,Mar-2015,Number of Deaths,51128,Wisconsin
+AL,Nov-2016,Number of Deaths,51110,Alabama
+AL,Nov-2015,Number of Deaths,51093,Alabama
+AL,Oct-2015,Number of Deaths,51091,Alabama
+WI,Dec-2015,Number of Deaths,51074,Wisconsin
+AL,Sep-2015,Number of Deaths,51044,Alabama
+WI,May-2016,Number of Deaths,51035,Wisconsin
+WI,Jul-2016,Number of Deaths,51026,Wisconsin
+WI,Jun-2016,Number of Deaths,51012,Wisconsin
+AL,Aug-2015,Number of Deaths,50930,Alabama
+WI,Mar-2016,Number of Deaths,50880,Wisconsin
+WI,Feb-2016,Number of Deaths,50878,Wisconsin
+AL,Dec-2015,Number of Deaths,50870,Alabama
+AL,Oct-2016,Number of Deaths,50869,Alabama
+AL,Jul-2015,Number of Deaths,50841,Alabama
+WI,Apr-2016,Number of Deaths,50822,Wisconsin
+AL,Sep-2016,Number of Deaths,50810,Alabama
+WI,Feb-2015,Number of Deaths,50801,Wisconsin
+AL,Aug-2016,Number of Deaths,50756,Alabama
+AL,Jul-2016,Number of Deaths,50683,Alabama
+AL,Jun-2015,Number of Deaths,50658,Alabama
+WI,Jan-2015,Number of Deaths,50658,Wisconsin
+WI,Jan-2016,Number of Deaths,50651,Wisconsin
+AL,Jun-2016,Number of Deaths,50613,Alabama
+AL,Apr-2015,Number of Deaths,50565,Alabama
+AL,Feb-2016,Number of Deaths,50555,Alabama
+AL,Jan-2016,Number of Deaths,50534,Alabama
+AL,May-2015,Number of Deaths,50516,Alabama
+AL,May-2016,Number of Deaths,50511,Alabama
+AL,Mar-2015,Number of Deaths,50486,Alabama
+AL,Apr-2016,Number of Deaths,50391,Alabama
+MD,Jun-2019,Number of Deaths,50377,Maryland
+AL,Mar-2016,Number of Deaths,50348,Alabama
+MD,May-2019,Number of Deaths,50346,Maryland
+MD,Apr-2019,Number of Deaths,50204,Maryland
+MD,Mar-2019,Number of Deaths,50033,Maryland
+AL,Feb-2015,Number of Deaths,50004,Alabama
+MD,Jan-2019,Number of Deaths,49933,Maryland
+MD,Feb-2019,Number of Deaths,49776,Maryland
+MD,Dec-2017,Number of Deaths,49670,Maryland
+MD,Dec-2018,Number of Deaths,49658,Maryland
+MD,Jun-2017,Number of Deaths,49654,Maryland
+SC,Jun-2019,Number of Deaths,49590,South Carolina
+MD,Sep-2017,Number of Deaths,49583,Maryland
+MD,Apr-2017,Number of Deaths,49576,Maryland
+MD,May-2017,Number of Deaths,49556,Maryland
+MD,Aug-2017,Number of Deaths,49549,Maryland
+AL,Jan-2015,Number of Deaths,49543,Alabama
+MD,Nov-2017,Number of Deaths,49539,Maryland
+MD,Jul-2017,Number of Deaths,49530,Maryland
+MD,Oct-2017,Number of Deaths,49527,Maryland
+MD,Nov-2018,Number of Deaths,49527,Maryland
+MD,Mar-2017,Number of Deaths,49489,Maryland
+MD,Oct-2018,Number of Deaths,49458,Maryland
+MD,Jul-2018,Number of Deaths,49434,Maryland
+MD,Aug-2018,Number of Deaths,49405,Maryland
+MD,Feb-2018,Number of Deaths,49331,Maryland
+MD,Jan-2018,Number of Deaths,49325,Maryland
+SC,May-2019,Number of Deaths,49321,South Carolina
+MD,Sep-2018,Number of Deaths,49314,Maryland
+MD,Mar-2018,Number of Deaths,49294,Maryland
+MD,Jun-2018,Number of Deaths,49230,Maryland
+MD,Apr-2018,Number of Deaths,49219,Maryland
+MD,May-2018,Number of Deaths,49193,Maryland
+MD,Feb-2017,Number of Deaths,49189,Maryland
+SC,Mar-2019,Number of Deaths,49099,South Carolina
+SC,Apr-2019,Number of Deaths,49080,South Carolina
+SC,Jan-2019,Number of Deaths,49050,South Carolina
+MD,Jan-2017,Number of Deaths,49031,Maryland
+SC,Feb-2019,Number of Deaths,48998,South Carolina
+SC,Nov-2018,Number of Deaths,48968,South Carolina
+SC,Dec-2018,Number of Deaths,48951,South Carolina
+SC,Sep-2018,Number of Deaths,48862,South Carolina
+SC,Oct-2018,Number of Deaths,48828,South Carolina
+SC,May-2018,Number of Deaths,48791,South Carolina
+SC,Aug-2018,Number of Deaths,48781,South Carolina
+SC,Mar-2018,Number of Deaths,48759,South Carolina
+SC,Feb-2018,Number of Deaths,48730,South Carolina
+SC,Apr-2018,Number of Deaths,48716,South Carolina
+SC,Jul-2018,Number of Deaths,48686,South Carolina
+SC,Jun-2018,Number of Deaths,48670,South Carolina
+MD,Dec-2016,Number of Deaths,48668,Maryland
+SC,Jan-2018,Number of Deaths,48438,South Carolina
+KY,Jun-2019,Number of Deaths,48436,Kentucky
+SC,Dec-2017,Number of Deaths,48418,South Carolina
+MD,Nov-2016,Number of Deaths,48351,Maryland
+KY,Jun-2017,Number of Deaths,48254,Kentucky
+KY,May-2019,Number of Deaths,48240,Kentucky
+KY,Jul-2017,Number of Deaths,48228,Kentucky
+SC,Nov-2017,Number of Deaths,48224,South Carolina
+SC,Oct-2017,Number of Deaths,48186,South Carolina
+KY,Aug-2017,Number of Deaths,48144,Kentucky
+KY,Apr-2019,Number of Deaths,48144,Kentucky
+KY,May-2017,Number of Deaths,48136,Kentucky
+KY,Nov-2018,Number of Deaths,48066,Kentucky
+KY,Apr-2017,Number of Deaths,48046,Kentucky
+MD,Oct-2016,Number of Deaths,48045,Maryland
+KY,Mar-2019,Number of Deaths,48043,Kentucky
+KY,Mar-2017,Number of Deaths,48020,Kentucky
+SC,Aug-2017,Number of Deaths,48017,South Carolina
+KY,Dec-2017,Number of Deaths,48014,Kentucky
+KY,Sep-2017,Number of Deaths,48012,Kentucky
+SC,Sep-2017,Number of Deaths,47975,South Carolina
+KY,Oct-2017,Number of Deaths,47967,Kentucky
+KY,Feb-2017,Number of Deaths,47924,Kentucky
+KY,Oct-2018,Number of Deaths,47872,Kentucky
+MD,Sep-2016,Number of Deaths,47868,Maryland
+KY,Nov-2017,Number of Deaths,47845,Kentucky
+KY,Jan-2017,Number of Deaths,47839,Kentucky
+KY,Feb-2019,Number of Deaths,47829,Kentucky
+KY,Jan-2019,Number of Deaths,47823,Kentucky
+KY,Jan-2018,Number of Deaths,47795,Kentucky
+SC,Jul-2017,Number of Deaths,47792,South Carolina
+KY,Dec-2018,Number of Deaths,47729,Kentucky
+KY,Feb-2018,Number of Deaths,47727,Kentucky
+SC,Jun-2017,Number of Deaths,47720,South Carolina
+KY,Sep-2018,Number of Deaths,47659,Kentucky
+KY,Mar-2018,Number of Deaths,47631,Kentucky
+MD,Oct-2015,Number of Deaths,47630,Maryland
+KY,Dec-2016,Number of Deaths,47606,Kentucky
+MD,Nov-2015,Number of Deaths,47583,Maryland
+KY,Aug-2018,Number of Deaths,47572,Kentucky
+KY,Apr-2018,Number of Deaths,47567,Kentucky
+KY,May-2018,Number of Deaths,47565,Kentucky
+MD,Aug-2016,Number of Deaths,47548,Maryland
+SC,May-2017,Number of Deaths,47492,South Carolina
+MD,Sep-2015,Number of Deaths,47485,Maryland
+KY,Jul-2018,Number of Deaths,47463,Kentucky
+MD,Aug-2015,Number of Deaths,47457,Maryland
+KY,Jun-2018,Number of Deaths,47453,Kentucky
+MD,Jul-2015,Number of Deaths,47386,Maryland
+MD,Jul-2016,Number of Deaths,47315,Maryland
+SC,Apr-2017,Number of Deaths,47315,South Carolina
+MD,Jun-2015,Number of Deaths,47301,Maryland
+KY,Nov-2016,Number of Deaths,47283,Kentucky
+SC,Jan-2017,Number of Deaths,47188,South Carolina
+MD,Dec-2015,Number of Deaths,47162,Maryland
+SC,Mar-2017,Number of Deaths,47150,South Carolina
+SC,Dec-2016,Number of Deaths,47123,South Carolina
+MD,Jun-2016,Number of Deaths,47120,Maryland
+MD,May-2015,Number of Deaths,47095,Maryland
+KY,Oct-2016,Number of Deaths,47070,Kentucky
+MD,May-2016,Number of Deaths,47054,Maryland
+KY,Sep-2016,Number of Deaths,47052,Kentucky
+SC,Nov-2016,Number of Deaths,46945,South Carolina
+MD,Apr-2015,Number of Deaths,46928,Maryland
+SC,Feb-2017,Number of Deaths,46912,South Carolina
+MD,Apr-2016,Number of Deaths,46898,Maryland
+SC,Sep-2016,Number of Deaths,46859,South Carolina
+MD,Mar-2015,Number of Deaths,46818,Maryland
+KY,Aug-2016,Number of Deaths,46769,Kentucky
+MD,Feb-2015,Number of Deaths,46765,Maryland
+SC,Oct-2016,Number of Deaths,46738,South Carolina
+MD,Mar-2016,Number of Deaths,46689,Maryland
+MD,Feb-2016,Number of Deaths,46686,Maryland
+MD,Jan-2016,Number of Deaths,46615,Maryland
+KY,Jul-2016,Number of Deaths,46593,Kentucky
+MD,Jan-2015,Number of Deaths,46592,Maryland
+SC,Jul-2016,Number of Deaths,46533,South Carolina
+SC,Aug-2016,Number of Deaths,46492,South Carolina
+KY,Jun-2016,Number of Deaths,46456,Kentucky
+SC,Oct-2015,Number of Deaths,46453,South Carolina
+SC,Nov-2015,Number of Deaths,46445,South Carolina
+KY,Nov-2015,Number of Deaths,46396,Kentucky
+KY,Oct-2015,Number of Deaths,46372,Kentucky
+SC,Dec-2015,Number of Deaths,46352,South Carolina
+SC,Jun-2016,Number of Deaths,46325,South Carolina
+KY,Apr-2016,Number of Deaths,46307,Kentucky
+SC,Feb-2016,Number of Deaths,46280,South Carolina
+SC,Apr-2016,Number of Deaths,46278,South Carolina
+KY,May-2016,Number of Deaths,46269,Kentucky
+SC,May-2016,Number of Deaths,46263,South Carolina
+SC,Sep-2015,Number of Deaths,46260,South Carolina
+LA,Feb-2018,Number of Deaths,46248,Louisiana
+KY,Dec-2015,Number of Deaths,46195,Kentucky
+KY,Sep-2015,Number of Deaths,46169,Kentucky
+SC,Aug-2015,Number of Deaths,46168,South Carolina
+SC,Mar-2016,Number of Deaths,46143,South Carolina
+LA,Jan-2018,Number of Deaths,46133,Louisiana
+SC,Jan-2016,Number of Deaths,46122,South Carolina
+LA,Sep-2018,Number of Deaths,46108,Louisiana
+LA,Aug-2018,Number of Deaths,46096,Louisiana
+LA,Jul-2018,Number of Deaths,46083,Louisiana
+SC,Jul-2015,Number of Deaths,46062,South Carolina
+LA,Jun-2018,Number of Deaths,46046,Louisiana
+KY,Mar-2016,Number of Deaths,46039,Kentucky
+KY,Aug-2015,Number of Deaths,45990,Kentucky
+LA,May-2018,Number of Deaths,45983,Louisiana
+SC,Jun-2015,Number of Deaths,45965,South Carolina
+LA,Mar-2018,Number of Deaths,45955,Louisiana
+LA,Dec-2017,Number of Deaths,45953,Louisiana
+LA,Oct-2018,Number of Deaths,45945,Louisiana
+KY,Jul-2015,Number of Deaths,45917,Kentucky
+LA,Apr-2018,Number of Deaths,45896,Louisiana
+LA,Nov-2018,Number of Deaths,45885,Louisiana
+KY,Feb-2016,Number of Deaths,45854,Kentucky
+KY,May-2015,Number of Deaths,45852,Kentucky
+SC,May-2015,Number of Deaths,45843,South Carolina
+KY,Jun-2015,Number of Deaths,45839,Kentucky
+KY,Jan-2016,Number of Deaths,45819,Kentucky
+LA,Mar-2019,Number of Deaths,45790,Louisiana
+LA,Apr-2019,Number of Deaths,45770,Louisiana
+LA,Jun-2019,Number of Deaths,45748,Louisiana
+SC,Apr-2015,Number of Deaths,45723,South Carolina
+SC,Mar-2015,Number of Deaths,45668,South Carolina
+LA,May-2019,Number of Deaths,45660,Louisiana
+KY,Apr-2015,Number of Deaths,45635,Kentucky
+LA,Dec-2018,Number of Deaths,45576,Louisiana
+LA,Jan-2019,Number of Deaths,45505,Louisiana
+LA,Feb-2019,Number of Deaths,45487,Louisiana
+KY,Mar-2015,Number of Deaths,45453,Kentucky
+KY,Feb-2015,Number of Deaths,45331,Kentucky
+LA,Nov-2017,Number of Deaths,45331,Louisiana
+SC,Feb-2015,Number of Deaths,45264,South Carolina
+LA,Oct-2017,Number of Deaths,45068,Louisiana
+LA,Aug-2017,Number of Deaths,45031,Louisiana
+LA,Sep-2017,Number of Deaths,45019,Louisiana
+LA,Jul-2017,Number of Deaths,44995,Louisiana
+LA,Jun-2017,Number of Deaths,44976,Louisiana
+LA,May-2017,Number of Deaths,44913,Louisiana
+KY,Jan-2015,Number of Deaths,44911,Kentucky
+MN,Jun-2019,Number of Deaths,44908,Minnesota
+SC,Jan-2015,Number of Deaths,44886,South Carolina
+LA,Apr-2017,Number of Deaths,44836,Louisiana
+MN,May-2019,Number of Deaths,44808,Minnesota
+LA,Mar-2017,Number of Deaths,44769,Louisiana
+LA,Feb-2017,Number of Deaths,44597,Louisiana
+LA,Jan-2017,Number of Deaths,44579,Louisiana
+MN,Apr-2019,Number of Deaths,44541,Minnesota
+MN,Mar-2019,Number of Deaths,44532,Minnesota
+MN,Jan-2019,Number of Deaths,44526,Minnesota
+MN,Feb-2019,Number of Deaths,44457,Minnesota
+LA,Dec-2016,Number of Deaths,44411,Louisiana
+LA,Sep-2015,Number of Deaths,44371,Louisiana
+LA,Oct-2015,Number of Deaths,44348,Louisiana
+LA,Nov-2016,Number of Deaths,44340,Louisiana
+MN,Nov-2018,Number of Deaths,44333,Minnesota
+LA,Mar-2015,Number of Deaths,44301,Louisiana
+MN,Dec-2017,Number of Deaths,44295,Minnesota
+MN,Oct-2018,Number of Deaths,44283,Minnesota
+LA,Aug-2015,Number of Deaths,44240,Louisiana
+LA,Apr-2015,Number of Deaths,44230,Louisiana
+LA,Oct-2016,Number of Deaths,44225,Louisiana
+LA,Jul-2015,Number of Deaths,44204,Louisiana
+LA,Jun-2015,Number of Deaths,44191,Louisiana
+MN,Aug-2018,Number of Deaths,44187,Minnesota
+MN,Dec-2018,Number of Deaths,44185,Minnesota
+MN,Sep-2018,Number of Deaths,44185,Minnesota
+LA,Nov-2015,Number of Deaths,44169,Louisiana
+LA,May-2015,Number of Deaths,44154,Louisiana
+LA,Feb-2015,Number of Deaths,44150,Louisiana
+MN,Feb-2018,Number of Deaths,44142,Minnesota
+MN,Nov-2017,Number of Deaths,44136,Minnesota
+MN,Jan-2018,Number of Deaths,44103,Minnesota
+LA,Jan-2015,Number of Deaths,44100,Louisiana
+LA,Sep-2016,Number of Deaths,44033,Louisiana
+MN,Jul-2018,Number of Deaths,44008,Minnesota
+MN,Oct-2017,Number of Deaths,43983,Minnesota
+MN,Mar-2018,Number of Deaths,43950,Minnesota
+LA,Aug-2016,Number of Deaths,43939,Louisiana
+MN,Sep-2017,Number of Deaths,43932,Minnesota
+LA,Dec-2015,Number of Deaths,43914,Louisiana
+MN,Aug-2017,Number of Deaths,43902,Minnesota
+MN,Jul-2017,Number of Deaths,43878,Minnesota
+MN,May-2017,Number of Deaths,43865,Minnesota
+MN,Apr-2018,Number of Deaths,43838,Minnesota
+MN,Jun-2017,Number of Deaths,43837,Minnesota
+MN,Jun-2018,Number of Deaths,43833,Minnesota
+MN,May-2018,Number of Deaths,43776,Minnesota
+LA,Jun-2016,Number of Deaths,43768,Louisiana
+LA,May-2016,Number of Deaths,43743,Louisiana
+LA,Jul-2016,Number of Deaths,43742,Louisiana
+MN,Apr-2017,Number of Deaths,43647,Minnesota
+LA,Apr-2016,Number of Deaths,43610,Louisiana
+LA,Jan-2016,Number of Deaths,43495,Louisiana
+MN,Mar-2017,Number of Deaths,43480,Minnesota
+LA,Mar-2016,Number of Deaths,43445,Louisiana
+LA,Feb-2016,Number of Deaths,43428,Louisiana
+MN,Feb-2017,Number of Deaths,43284,Minnesota
+MN,Oct-2015,Number of Deaths,43207,Minnesota
+MN,Dec-2016,Number of Deaths,43134,Minnesota
+MN,Jan-2017,Number of Deaths,43129,Minnesota
+MN,Sep-2015,Number of Deaths,43112,Minnesota
+MN,Aug-2015,Number of Deaths,43041,Minnesota
+MN,Nov-2015,Number of Deaths,43022,Minnesota
+MN,Nov-2016,Number of Deaths,42946,Minnesota
+MN,Jul-2015,Number of Deaths,42851,Minnesota
+MN,Jun-2015,Number of Deaths,42770,Minnesota
+MN,Oct-2016,Number of Deaths,42767,Minnesota
+MN,Feb-2016,Number of Deaths,42746,Minnesota
+MN,Dec-2015,Number of Deaths,42713,Minnesota
+MN,Sep-2016,Number of Deaths,42690,Minnesota
+MN,May-2015,Number of Deaths,42666,Minnesota
+MN,Mar-2016,Number of Deaths,42655,Minnesota
+MN,Apr-2015,Number of Deaths,42623,Minnesota
+MN,Apr-2016,Number of Deaths,42590,Minnesota
+MN,Jan-2016,Number of Deaths,42576,Minnesota
+MN,Aug-2016,Number of Deaths,42560,Minnesota
+MN,Jul-2016,Number of Deaths,42556,Minnesota
+MN,Jun-2016,Number of Deaths,42535,Minnesota
+MN,May-2016,Number of Deaths,42526,Minnesota
+MN,Mar-2015,Number of Deaths,42319,Minnesota
+MN,Feb-2015,Number of Deaths,42098,Minnesota
+MN,Jan-2015,Number of Deaths,41954,Minnesota
+OK,Jun-2018,Number of Deaths,39580,Oklahoma
+OK,Nov-2018,Number of Deaths,39542,Oklahoma
+OK,May-2018,Number of Deaths,39540,Oklahoma
+OK,Aug-2018,Number of Deaths,39505,Oklahoma
+OK,Oct-2018,Number of Deaths,39471,Oklahoma
+OK,Feb-2018,Number of Deaths,39439,Oklahoma
+OK,Jul-2018,Number of Deaths,39439,Oklahoma
+OK,Apr-2018,Number of Deaths,39428,Oklahoma
+CO,Jun-2019,Number of Deaths,39427,Colorado
+OK,Sep-2018,Number of Deaths,39379,Oklahoma
+OK,Mar-2018,Number of Deaths,39378,Oklahoma
+OK,Mar-2019,Number of Deaths,39369,Oklahoma
+OK,Dec-2018,Number of Deaths,39348,Oklahoma
+OK,Apr-2019,Number of Deaths,39348,Oklahoma
+OK,Dec-2017,Number of Deaths,39318,Oklahoma
+OK,Jun-2019,Number of Deaths,39313,Oklahoma
+OK,May-2019,Number of Deaths,39310,Oklahoma
+OK,Jan-2018,Number of Deaths,39302,Oklahoma
+OK,Jan-2019,Number of Deaths,39301,Oklahoma
+OK,Nov-2017,Number of Deaths,39286,Oklahoma
+CO,May-2019,Number of Deaths,39237,Colorado
+OK,Oct-2017,Number of Deaths,39131,Oklahoma
+CO,Mar-2019,Number of Deaths,39122,Colorado
+OK,Feb-2019,Number of Deaths,39120,Oklahoma
+OK,Sep-2017,Number of Deaths,39064,Oklahoma
+CO,Apr-2019,Number of Deaths,39061,Colorado
+CO,Feb-2019,Number of Deaths,39059,Colorado
+CO,Jan-2019,Number of Deaths,39010,Colorado
+OK,Aug-2017,Number of Deaths,39000,Oklahoma
+OK,Jul-2017,Number of Deaths,38995,Oklahoma
+OK,Jun-2017,Number of Deaths,38868,Oklahoma
+CO,Aug-2018,Number of Deaths,38800,Colorado
+CO,Dec-2017,Number of Deaths,38759,Colorado
+OK,Apr-2017,Number of Deaths,38742,Oklahoma
+CO,Nov-2018,Number of Deaths,38720,Colorado
+CO,Nov-2017,Number of Deaths,38704,Colorado
+CO,Sep-2018,Number of Deaths,38699,Colorado
+CO,Oct-2018,Number of Deaths,38683,Colorado
+OK,May-2017,Number of Deaths,38683,Oklahoma
+CO,Dec-2018,Number of Deaths,38662,Colorado
+OK,Mar-2017,Number of Deaths,38616,Oklahoma
+CO,Jul-2018,Number of Deaths,38599,Colorado
+CO,Oct-2017,Number of Deaths,38590,Colorado
+CO,Sep-2017,Number of Deaths,38542,Colorado
+CO,Apr-2017,Number of Deaths,38521,Colorado
+CO,May-2018,Number of Deaths,38521,Colorado
+OK,Feb-2017,Number of Deaths,38517,Oklahoma
+CO,Jan-2018,Number of Deaths,38499,Colorado
+CO,Jun-2018,Number of Deaths,38488,Colorado
+CO,Mar-2018,Number of Deaths,38477,Colorado
+CO,Jun-2017,Number of Deaths,38470,Colorado
+CO,Feb-2018,Number of Deaths,38467,Colorado
+CO,Apr-2018,Number of Deaths,38445,Colorado
+CO,May-2017,Number of Deaths,38410,Colorado
+CO,Aug-2017,Number of Deaths,38380,Colorado
+CO,Jul-2017,Number of Deaths,38367,Colorado
+CO,Mar-2017,Number of Deaths,38364,Colorado
+CO,Feb-2017,Number of Deaths,38358,Colorado
+OK,Jan-2017,Number of Deaths,38344,Oklahoma
+OK,Dec-2015,Number of Deaths,38321,Oklahoma
+OK,Aug-2015,Number of Deaths,38289,Oklahoma
+OK,Nov-2015,Number of Deaths,38278,Oklahoma
+OK,Oct-2015,Number of Deaths,38260,Oklahoma
+OK,Sep-2015,Number of Deaths,38243,Oklahoma
+CO,Jan-2017,Number of Deaths,38236,Colorado
+OK,Jul-2015,Number of Deaths,38193,Oklahoma
+OK,Dec-2016,Number of Deaths,38170,Oklahoma
+CO,Dec-2016,Number of Deaths,38151,Colorado
+OK,Jun-2015,Number of Deaths,38139,Oklahoma
+CO,Nov-2016,Number of Deaths,38075,Colorado
+CO,Oct-2016,Number of Deaths,38048,Colorado
+OK,Oct-2016,Number of Deaths,38045,Oklahoma
+OK,Sep-2016,Number of Deaths,38045,Oklahoma
+OK,Mar-2015,Number of Deaths,38043,Oklahoma
+OK,Nov-2016,Number of Deaths,38040,Oklahoma
+OK,Jan-2016,Number of Deaths,38029,Oklahoma
+OK,May-2016,Number of Deaths,38008,Oklahoma
+OK,Apr-2015,Number of Deaths,38006,Oklahoma
+OK,May-2015,Number of Deaths,37987,Oklahoma
+OK,Feb-2015,Number of Deaths,37978,Oklahoma
+OK,Feb-2016,Number of Deaths,37936,Oklahoma
+OK,Aug-2016,Number of Deaths,37894,Oklahoma
+OK,Apr-2016,Number of Deaths,37844,Oklahoma
+OK,Jun-2016,Number of Deaths,37839,Oklahoma
+CO,Sep-2016,Number of Deaths,37834,Colorado
+OK,Mar-2016,Number of Deaths,37812,Oklahoma
+OK,Jul-2016,Number of Deaths,37797,Oklahoma
+OK,Jan-2015,Number of Deaths,37788,Oklahoma
+CO,Aug-2016,Number of Deaths,37650,Colorado
+CO,Jul-2016,Number of Deaths,37620,Colorado
+CO,May-2016,Number of Deaths,37535,Colorado
+CO,Jun-2016,Number of Deaths,37504,Colorado
+CO,Mar-2016,Number of Deaths,37387,Colorado
+CO,Apr-2016,Number of Deaths,37351,Colorado
+CO,Nov-2015,Number of Deaths,37144,Colorado
+CO,Oct-2015,Number of Deaths,37144,Colorado
+CO,Aug-2015,Number of Deaths,37125,Colorado
+CO,Sep-2015,Number of Deaths,37101,Colorado
+CO,Dec-2015,Number of Deaths,36993,Colorado
+CO,Feb-2016,Number of Deaths,36987,Colorado
+CO,Jul-2015,Number of Deaths,36960,Colorado
+OR,Oct-2017,Number of Deaths,36941,Oregon
+OR,Aug-2017,Number of Deaths,36906,Oregon
+OR,Jul-2017,Number of Deaths,36882,Oregon
+OR,Nov-2017,Number of Deaths,36857,Oregon
+OR,Jun-2017,Number of Deaths,36852,Oregon
+OR,Sep-2017,Number of Deaths,36845,Oregon
+OR,May-2017,Number of Deaths,36825,Oregon
+CO,Jun-2015,Number of Deaths,36816,Colorado
+CO,Jan-2016,Number of Deaths,36752,Colorado
+OR,Apr-2017,Number of Deaths,36705,Oregon
+OR,Feb-2017,Number of Deaths,36696,Oregon
+OR,Dec-2017,Number of Deaths,36695,Oregon
+CO,May-2015,Number of Deaths,36667,Colorado
+OR,Mar-2017,Number of Deaths,36636,Oregon
+OR,Jun-2019,Number of Deaths,36628,Oregon
+CO,Apr-2015,Number of Deaths,36601,Colorado
+OR,May-2019,Number of Deaths,36577,Oregon
+OR,Jan-2017,Number of Deaths,36545,Oregon
+OR,Apr-2019,Number of Deaths,36353,Oregon
+CO,Feb-2015,Number of Deaths,36330,Colorado
+OR,Mar-2019,Number of Deaths,36320,Oregon
+CO,Mar-2015,Number of Deaths,36300,Colorado
+CO,Jan-2015,Number of Deaths,36264,Colorado
+OR,Feb-2019,Number of Deaths,36188,Oregon
+OR,Jan-2019,Number of Deaths,36006,Oregon
+OR,Jan-2018,Number of Deaths,35968,Oregon
+OR,Dec-2016,Number of Deaths,35918,Oregon
+OR,Apr-2018,Number of Deaths,35915,Oregon
+OR,Jun-2018,Number of Deaths,35862,Oregon
+OR,Mar-2018,Number of Deaths,35837,Oregon
+OR,Nov-2018,Number of Deaths,35773,Oregon
+OR,Dec-2018,Number of Deaths,35772,Oregon
+OR,Sep-2018,Number of Deaths,35763,Oregon
+OR,May-2018,Number of Deaths,35757,Oregon
+OR,Jul-2018,Number of Deaths,35749,Oregon
+OR,Aug-2018,Number of Deaths,35737,Oregon
+OR,Dec-2015,Number of Deaths,35732,Oregon
+OR,Feb-2018,Number of Deaths,35710,Oregon
+OR,Oct-2016,Number of Deaths,35688,Oregon
+OR,Nov-2016,Number of Deaths,35668,Oregon
+OR,Oct-2018,Number of Deaths,35662,Oregon
+OR,Nov-2015,Number of Deaths,35629,Oregon
+OR,Mar-2016,Number of Deaths,35596,Oregon
+OR,Apr-2016,Number of Deaths,35581,Oregon
+OR,Aug-2016,Number of Deaths,35574,Oregon
+OR,Sep-2015,Number of Deaths,35565,Oregon
+OR,Sep-2016,Number of Deaths,35547,Oregon
+OR,Jan-2016,Number of Deaths,35523,Oregon
+OR,Aug-2015,Number of Deaths,35486,Oregon
+OR,Oct-2015,Number of Deaths,35484,Oregon
+OR,Jul-2015,Number of Deaths,35470,Oregon
+OR,May-2016,Number of Deaths,35469,Oregon
+OR,Jul-2016,Number of Deaths,35468,Oregon
+OR,Feb-2016,Number of Deaths,35453,Oregon
+OR,Jun-2016,Number of Deaths,35399,Oregon
+OR,Jun-2015,Number of Deaths,35356,Oregon
+OR,May-2015,Number of Deaths,35158,Oregon
+OR,Apr-2015,Number of Deaths,34918,Oregon
+OR,Mar-2015,Number of Deaths,34773,Oregon
+OR,Feb-2015,Number of Deaths,34646,Oregon
+OR,Jan-2015,Number of Deaths,34412,Oregon
+AR,Apr-2019,Number of Deaths,32031,Arkansas
+AR,Feb-2018,Number of Deaths,32005,Arkansas
+AR,May-2019,Number of Deaths,31993,Arkansas
+AR,Jun-2019,Number of Deaths,31992,Arkansas
+AR,Jan-2018,Number of Deaths,31897,Arkansas
+AR,Mar-2019,Number of Deaths,31862,Arkansas
+AR,Dec-2017,Number of Deaths,31823,Arkansas
+AR,Mar-2018,Number of Deaths,31805,Arkansas
+MS,Jun-2019,Number of Deaths,31752,Mississippi
+AR,Nov-2018,Number of Deaths,31734,Arkansas
+AR,May-2018,Number of Deaths,31727,Arkansas
+AR,Oct-2017,Number of Deaths,31724,Arkansas
+AR,Sep-2017,Number of Deaths,31718,Arkansas
+MS,May-2019,Number of Deaths,31692,Mississippi
+AR,Jun-2018,Number of Deaths,31691,Arkansas
+CT,Jun-2019,Number of Deaths,31684,Connecticut
+AR,Apr-2018,Number of Deaths,31664,Arkansas
+AR,Nov-2017,Number of Deaths,31654,Arkansas
+AR,Jul-2018,Number of Deaths,31653,Arkansas
+AR,Oct-2018,Number of Deaths,31653,Arkansas
+MS,Sep-2018,Number of Deaths,31638,Mississippi
+MS,Aug-2018,Number of Deaths,31636,Mississippi
+MS,Apr-2018,Number of Deaths,31620,Mississippi
+AR,Aug-2018,Number of Deaths,31618,Arkansas
+MS,Feb-2018,Number of Deaths,31617,Mississippi
+MS,Oct-2018,Number of Deaths,31600,Mississippi
+AR,Aug-2017,Number of Deaths,31596,Arkansas
+MS,Jun-2018,Number of Deaths,31595,Mississippi
+MS,Nov-2018,Number of Deaths,31588,Mississippi
+AR,Sep-2018,Number of Deaths,31567,Arkansas
+MS,Jan-2018,Number of Deaths,31565,Mississippi
+MS,May-2018,Number of Deaths,31558,Mississippi
+CT,Mar-2019,Number of Deaths,31557,Connecticut
+AR,Jun-2017,Number of Deaths,31555,Arkansas
+MS,Jul-2018,Number of Deaths,31553,Mississippi
+CT,May-2019,Number of Deaths,31551,Connecticut
+AR,Jul-2017,Number of Deaths,31550,Arkansas
+CT,Sep-2017,Number of Deaths,31543,Connecticut
+CT,Dec-2017,Number of Deaths,31542,Connecticut
+CT,Apr-2019,Number of Deaths,31537,Connecticut
+AR,Feb-2019,Number of Deaths,31535,Arkansas
+MS,Mar-2018,Number of Deaths,31528,Mississippi
+CT,Oct-2017,Number of Deaths,31511,Connecticut
+AR,May-2017,Number of Deaths,31496,Arkansas
+MS,Dec-2017,Number of Deaths,31460,Mississippi
+AR,Jan-2019,Number of Deaths,31457,Arkansas
+AR,Dec-2018,Number of Deaths,31430,Arkansas
+CT,Nov-2017,Number of Deaths,31424,Connecticut
+MS,Apr-2019,Number of Deaths,31410,Mississippi
+AR,Apr-2017,Number of Deaths,31382,Arkansas
+CT,Feb-2019,Number of Deaths,31379,Connecticut
+CT,Aug-2017,Number of Deaths,31374,Connecticut
+MS,Mar-2019,Number of Deaths,31368,Mississippi
+CT,Jan-2018,Number of Deaths,31367,Connecticut
+CT,Jul-2017,Number of Deaths,31345,Connecticut
+AR,Mar-2017,Number of Deaths,31309,Arkansas
+CT,Oct-2018,Number of Deaths,31298,Connecticut
+CT,Nov-2018,Number of Deaths,31283,Connecticut
+MS,Dec-2018,Number of Deaths,31276,Mississippi
+MS,Feb-2019,Number of Deaths,31273,Mississippi
+CT,Jan-2019,Number of Deaths,31260,Connecticut
+CT,Jun-2017,Number of Deaths,31248,Connecticut
+CT,Sep-2018,Number of Deaths,31246,Connecticut
+CT,Aug-2018,Number of Deaths,31243,Connecticut
+CT,May-2018,Number of Deaths,31222,Connecticut
+CT,Apr-2018,Number of Deaths,31191,Connecticut
+CT,Feb-2018,Number of Deaths,31191,Connecticut
+MS,Jan-2019,Number of Deaths,31190,Mississippi
+CT,Jul-2018,Number of Deaths,31174,Connecticut
+MS,Oct-2015,Number of Deaths,31167,Mississippi
+MS,Nov-2017,Number of Deaths,31162,Mississippi
+AR,Feb-2017,Number of Deaths,31156,Arkansas
+CT,Mar-2018,Number of Deaths,31152,Connecticut
+MS,Nov-2015,Number of Deaths,31127,Mississippi
+MS,Jul-2017,Number of Deaths,31121,Mississippi
+CT,May-2017,Number of Deaths,31116,Connecticut
+AR,Jan-2017,Number of Deaths,31113,Arkansas
+CT,Apr-2017,Number of Deaths,31103,Connecticut
+CT,Dec-2018,Number of Deaths,31090,Connecticut
+CT,Jun-2018,Number of Deaths,31085,Connecticut
+MS,Sep-2015,Number of Deaths,31070,Mississippi
+MS,Jun-2017,Number of Deaths,31065,Mississippi
+CT,Mar-2017,Number of Deaths,31060,Connecticut
+MS,Aug-2015,Number of Deaths,31052,Mississippi
+MS,Oct-2017,Number of Deaths,31050,Mississippi
+MS,Jan-2016,Number of Deaths,31049,Mississippi
+MS,Apr-2017,Number of Deaths,31037,Mississippi
+MS,Sep-2017,Number of Deaths,31032,Mississippi
+AR,Dec-2016,Number of Deaths,31028,Arkansas
+CT,Feb-2017,Number of Deaths,31023,Connecticut
+MS,Dec-2016,Number of Deaths,31016,Mississippi
+AR,Oct-2015,Number of Deaths,31015,Arkansas
+AR,Nov-2015,Number of Deaths,31007,Arkansas
+MS,Dec-2015,Number of Deaths,31006,Mississippi
+MS,Mar-2017,Number of Deaths,31002,Mississippi
+MS,May-2017,Number of Deaths,30992,Mississippi
+AR,Dec-2015,Number of Deaths,30986,Arkansas
+MS,Jan-2017,Number of Deaths,30972,Mississippi
+MS,Feb-2017,Number of Deaths,30969,Mississippi
+MS,Aug-2017,Number of Deaths,30965,Mississippi
+AR,Sep-2015,Number of Deaths,30931,Arkansas
+MS,Jul-2015,Number of Deaths,30921,Mississippi
+MS,Feb-2016,Number of Deaths,30918,Mississippi
+MS,Mar-2016,Number of Deaths,30894,Mississippi
+AR,Aug-2015,Number of Deaths,30884,Arkansas
+MS,Nov-2016,Number of Deaths,30844,Mississippi
+CT,Jan-2017,Number of Deaths,30834,Connecticut
+MS,Apr-2016,Number of Deaths,30800,Mississippi
+MS,May-2016,Number of Deaths,30752,Mississippi
+CT,Nov-2015,Number of Deaths,30751,Connecticut
+AR,Jun-2015,Number of Deaths,30722,Arkansas
+MS,Oct-2016,Number of Deaths,30712,Mississippi
+MS,Jun-2015,Number of Deaths,30703,Mississippi
+AR,Nov-2016,Number of Deaths,30697,Arkansas
+MS,Jun-2016,Number of Deaths,30689,Mississippi
+AR,Jul-2015,Number of Deaths,30685,Arkansas
+MS,Aug-2016,Number of Deaths,30681,Mississippi
+MS,Sep-2016,Number of Deaths,30644,Mississippi
+CT,Dec-2016,Number of Deaths,30641,Connecticut
+AR,Jan-2016,Number of Deaths,30624,Arkansas
+CT,Oct-2015,Number of Deaths,30615,Connecticut
+CT,Jul-2015,Number of Deaths,30612,Connecticut
+AR,May-2015,Number of Deaths,30602,Arkansas
+CT,Dec-2015,Number of Deaths,30600,Connecticut
+AR,Jul-2016,Number of Deaths,30590,Arkansas
+MS,Jul-2016,Number of Deaths,30590,Mississippi
+CT,Sep-2015,Number of Deaths,30556,Connecticut
+CT,Aug-2015,Number of Deaths,30549,Connecticut
+MS,May-2015,Number of Deaths,30541,Mississippi
+AR,Sep-2016,Number of Deaths,30540,Arkansas
+CT,Jun-2015,Number of Deaths,30508,Connecticut
+CT,Mar-2015,Number of Deaths,30497,Connecticut
+AR,Apr-2016,Number of Deaths,30489,Arkansas
+AR,Oct-2016,Number of Deaths,30489,Arkansas
+AR,Aug-2016,Number of Deaths,30488,Arkansas
+AR,Apr-2015,Number of Deaths,30444,Arkansas
+CT,May-2015,Number of Deaths,30437,Connecticut
+AR,Jun-2016,Number of Deaths,30434,Arkansas
+CT,Apr-2015,Number of Deaths,30431,Connecticut
+AR,Mar-2016,Number of Deaths,30421,Arkansas
+AR,Feb-2016,Number of Deaths,30413,Arkansas
+AR,Mar-2015,Number of Deaths,30387,Arkansas
+CT,Jan-2016,Number of Deaths,30368,Connecticut
+AR,May-2016,Number of Deaths,30361,Arkansas
+CT,Feb-2015,Number of Deaths,30349,Connecticut
+AR,Feb-2015,Number of Deaths,30332,Arkansas
+MS,Apr-2015,Number of Deaths,30303,Mississippi
+CT,Nov-2016,Number of Deaths,30294,Connecticut
+IA,Dec-2017,Number of Deaths,30242,Iowa
+CT,Feb-2016,Number of Deaths,30231,Connecticut
+CT,Jan-2015,Number of Deaths,30221,Connecticut
+IA,Nov-2017,Number of Deaths,30220,Iowa
+IA,Jun-2017,Number of Deaths,30213,Iowa
+MS,Mar-2015,Number of Deaths,30211,Mississippi
+IA,Jul-2017,Number of Deaths,30210,Iowa
+CT,Apr-2016,Number of Deaths,30198,Connecticut
+CT,May-2016,Number of Deaths,30198,Connecticut
+CT,Jun-2016,Number of Deaths,30188,Connecticut
+CT,Mar-2016,Number of Deaths,30162,Connecticut
+CT,Aug-2016,Number of Deaths,30156,Connecticut
+CT,Oct-2016,Number of Deaths,30155,Connecticut
+IA,Oct-2017,Number of Deaths,30135,Iowa
+AR,Jan-2015,Number of Deaths,30122,Arkansas
+IA,Sep-2017,Number of Deaths,30122,Iowa
+IA,May-2017,Number of Deaths,30121,Iowa
+IA,Aug-2017,Number of Deaths,30109,Iowa
+CT,Jul-2016,Number of Deaths,30094,Connecticut
+CT,Sep-2016,Number of Deaths,30088,Connecticut
+IA,Jun-2019,Number of Deaths,30050,Iowa
+IA,Jan-2019,Number of Deaths,30034,Iowa
+IA,May-2019,Number of Deaths,30011,Iowa
+IA,Apr-2017,Number of Deaths,29999,Iowa
+IA,Mar-2019,Number of Deaths,29994,Iowa
+IA,Oct-2018,Number of Deaths,29974,Iowa
+MS,Feb-2015,Number of Deaths,29969,Mississippi
+IA,Apr-2019,Number of Deaths,29964,Iowa
+IA,Mar-2017,Number of Deaths,29945,Iowa
+IA,Nov-2018,Number of Deaths,29944,Iowa
+IA,Feb-2019,Number of Deaths,29926,Iowa
+IA,Aug-2018,Number of Deaths,29925,Iowa
+IA,Sep-2018,Number of Deaths,29866,Iowa
+IA,Dec-2018,Number of Deaths,29828,Iowa
+IA,Feb-2018,Number of Deaths,29827,Iowa
+IA,Jul-2018,Number of Deaths,29821,Iowa
+IA,Apr-2018,Number of Deaths,29782,Iowa
+IA,Jan-2018,Number of Deaths,29778,Iowa
+IA,Jun-2018,Number of Deaths,29756,Iowa
+IA,Mar-2018,Number of Deaths,29743,Iowa
+MS,Jan-2015,Number of Deaths,29715,Mississippi
+IA,May-2018,Number of Deaths,29704,Iowa
+IA,Feb-2017,Number of Deaths,29703,Iowa
+IA,Oct-2015,Number of Deaths,29692,Iowa
+IA,Sep-2015,Number of Deaths,29678,Iowa
+IA,Aug-2015,Number of Deaths,29667,Iowa
+IA,Jul-2015,Number of Deaths,29649,Iowa
+IA,Jan-2017,Number of Deaths,29622,Iowa
+IA,Nov-2015,Number of Deaths,29599,Iowa
+IA,Jun-2015,Number of Deaths,29533,Iowa
+IA,May-2015,Number of Deaths,29462,Iowa
+IA,Apr-2015,Number of Deaths,29412,Iowa
+IA,Mar-2015,Number of Deaths,29380,Iowa
+IA,Dec-2016,Number of Deaths,29318,Iowa
+IA,Dec-2015,Number of Deaths,29291,Iowa
+IA,Feb-2015,Number of Deaths,29203,Iowa
+IA,Jan-2015,Number of Deaths,29177,Iowa
+IA,Feb-2016,Number of Deaths,29156,Iowa
+IA,Jan-2016,Number of Deaths,29031,Iowa
+IA,Nov-2016,Number of Deaths,29018,Iowa
+IA,Oct-2016,Number of Deaths,28956,Iowa
+IA,Mar-2016,Number of Deaths,28911,Iowa
+IA,May-2016,Number of Deaths,28909,Iowa
+IA,Apr-2016,Number of Deaths,28908,Iowa
+IA,Jun-2016,Number of Deaths,28863,Iowa
+IA,Sep-2016,Number of Deaths,28822,Iowa
+IA,Aug-2016,Number of Deaths,28760,Iowa
+IA,Jul-2016,Number of Deaths,28746,Iowa
+KS,Jun-2019,Number of Deaths,26262,Kansas
+KS,May-2019,Number of Deaths,26230,Kansas
+KS,Sep-2018,Number of Deaths,26200,Kansas
+KS,Jan-2019,Number of Deaths,26193,Kansas
+KS,Nov-2018,Number of Deaths,26180,Kansas
+KS,Jun-2018,Number of Deaths,26164,Kansas
+KS,Mar-2019,Number of Deaths,26161,Kansas
+KS,Oct-2018,Number of Deaths,26155,Kansas
+KS,May-2017,Number of Deaths,26151,Kansas
+KS,Dec-2017,Number of Deaths,26148,Kansas
+KS,Oct-2017,Number of Deaths,26140,Kansas
+KS,Dec-2018,Number of Deaths,26136,Kansas
+KS,Apr-2017,Number of Deaths,26134,Kansas
+KS,Jul-2017,Number of Deaths,26133,Kansas
+KS,Nov-2017,Number of Deaths,26132,Kansas
+KS,Mar-2017,Number of Deaths,26130,Kansas
+KS,Apr-2019,Number of Deaths,26127,Kansas
+KS,Aug-2018,Number of Deaths,26115,Kansas
+KS,Feb-2019,Number of Deaths,26090,Kansas
+KS,Sep-2017,Number of Deaths,26084,Kansas
+KS,Jun-2017,Number of Deaths,26079,Kansas
+KS,Jul-2018,Number of Deaths,26069,Kansas
+KS,Oct-2015,Number of Deaths,26017,Kansas
+KS,Aug-2017,Number of Deaths,26011,Kansas
+KS,May-2018,Number of Deaths,26010,Kansas
+KS,Apr-2018,Number of Deaths,25976,Kansas
+KS,Feb-2018,Number of Deaths,25941,Kansas
+KS,Nov-2015,Number of Deaths,25935,Kansas
+KS,Feb-2017,Number of Deaths,25933,Kansas
+KS,Jan-2018,Number of Deaths,25924,Kansas
+KS,Sep-2015,Number of Deaths,25920,Kansas
+KS,Mar-2018,Number of Deaths,25919,Kansas
+KS,Aug-2015,Number of Deaths,25885,Kansas
+KS,Dec-2015,Number of Deaths,25863,Kansas
+NV,Jun-2019,Number of Deaths,25847,Nevada
+NV,May-2019,Number of Deaths,25833,Nevada
+KS,Jul-2015,Number of Deaths,25803,Kansas
+NV,Apr-2019,Number of Deaths,25777,Nevada
+KS,Jan-2017,Number of Deaths,25718,Kansas
+NV,Dec-2017,Number of Deaths,25689,Nevada
+KS,Jun-2015,Number of Deaths,25657,Kansas
+KS,Jan-2016,Number of Deaths,25598,Kansas
+NV,Mar-2019,Number of Deaths,25592,Nevada
+NV,Nov-2017,Number of Deaths,25563,Nevada
+NV,Feb-2019,Number of Deaths,25537,Nevada
+NV,Aug-2018,Number of Deaths,25530,Nevada
+KS,Feb-2016,Number of Deaths,25507,Kansas
+KS,Dec-2016,Number of Deaths,25489,Kansas
+NV,Sep-2018,Number of Deaths,25470,Nevada
+KS,Apr-2016,Number of Deaths,25463,Kansas
+NV,Jul-2017,Number of Deaths,25463,Nevada
+KS,May-2015,Number of Deaths,25456,Kansas
+NV,Jan-2018,Number of Deaths,25448,Nevada
+NV,Mar-2018,Number of Deaths,25447,Nevada
+NV,Oct-2017,Number of Deaths,25433,Nevada
+NV,Apr-2018,Number of Deaths,25425,Nevada
+NV,Feb-2018,Number of Deaths,25425,Nevada
+NV,Jul-2018,Number of Deaths,25419,Nevada
+KS,Mar-2016,Number of Deaths,25415,Kansas
+NV,Nov-2018,Number of Deaths,25409,Nevada
+KS,May-2016,Number of Deaths,25400,Kansas
+KS,Apr-2015,Number of Deaths,25392,Kansas
+KS,Mar-2015,Number of Deaths,25392,Kansas
+NV,Jun-2017,Number of Deaths,25386,Nevada
+NV,Jan-2019,Number of Deaths,25386,Nevada
+NV,Jun-2018,Number of Deaths,25368,Nevada
+NV,Oct-2018,Number of Deaths,25365,Nevada
+KS,Jun-2016,Number of Deaths,25353,Kansas
+NV,May-2018,Number of Deaths,25351,Nevada
+KS,Feb-2015,Number of Deaths,25320,Kansas
+KS,Aug-2016,Number of Deaths,25308,Kansas
+NV,Sep-2017,Number of Deaths,25299,Nevada
+NV,Aug-2017,Number of Deaths,25298,Nevada
+KS,Nov-2016,Number of Deaths,25296,Kansas
+KS,Jul-2016,Number of Deaths,25292,Kansas
+NV,May-2017,Number of Deaths,25225,Nevada
+NV,Dec-2018,Number of Deaths,25225,Nevada
+KS,Sep-2016,Number of Deaths,25223,Kansas
+KS,Jan-2015,Number of Deaths,25208,Kansas
+KS,Oct-2016,Number of Deaths,25174,Kansas
+NV,Jan-2017,Number of Deaths,25004,Nevada
+NV,Apr-2017,Number of Deaths,24992,Nevada
+NV,Mar-2017,Number of Deaths,24949,Nevada
+NV,Feb-2017,Number of Deaths,24909,Nevada
+NV,Dec-2016,Number of Deaths,24692,Nevada
+NV,Oct-2016,Number of Deaths,24669,Nevada
+NV,Sep-2016,Number of Deaths,24602,Nevada
+NV,Nov-2016,Number of Deaths,24589,Nevada
+NV,Aug-2016,Number of Deaths,24451,Nevada
+NV,Jul-2016,Number of Deaths,24268,Nevada
+NV,Jun-2016,Number of Deaths,24153,Nevada
+NV,Apr-2016,Number of Deaths,24140,Nevada
+NV,May-2016,Number of Deaths,24131,Nevada
+NV,Mar-2016,Number of Deaths,23961,Nevada
+NV,Feb-2016,Number of Deaths,23876,Nevada
+NV,Dec-2015,Number of Deaths,23647,Nevada
+NV,Jan-2016,Number of Deaths,23572,Nevada
+NV,Nov-2015,Number of Deaths,23506,Nevada
+NV,Oct-2015,Number of Deaths,23392,Nevada
+NV,Sep-2015,Number of Deaths,23360,Nevada
+NV,Aug-2015,Number of Deaths,23350,Nevada
+NV,Jul-2015,Number of Deaths,23255,Nevada
+NV,Jun-2015,Number of Deaths,23228,Nevada
+NV,May-2015,Number of Deaths,23034,Nevada
+NV,Apr-2015,Number of Deaths,22926,Nevada
+WV,Sep-2018,Number of Deaths,22835,West Virginia
+WV,Oct-2018,Number of Deaths,22799,West Virginia
+NV,Mar-2015,Number of Deaths,22791,Nevada
+WV,Jun-2019,Number of Deaths,22755,West Virginia
+WV,Jul-2018,Number of Deaths,22752,West Virginia
+WV,Nov-2018,Number of Deaths,22731,West Virginia
+WV,May-2019,Number of Deaths,22719,West Virginia
+WV,Aug-2018,Number of Deaths,22712,West Virginia
+WV,Jun-2018,Number of Deaths,22705,West Virginia
+WV,Apr-2019,Number of Deaths,22691,West Virginia
+WV,Mar-2019,Number of Deaths,22665,West Virginia
+WV,Jan-2019,Number of Deaths,22654,West Virginia
+WV,Feb-2019,Number of Deaths,22636,West Virginia
+NV,Feb-2015,Number of Deaths,22628,Nevada
+WV,May-2018,Number of Deaths,22620,West Virginia
+NV,Jan-2015,Number of Deaths,22619,Nevada
+WV,Dec-2018,Number of Deaths,22590,West Virginia
+WV,Dec-2017,Number of Deaths,22562,West Virginia
+WV,Feb-2018,Number of Deaths,22499,West Virginia
+WV,Jan-2018,Number of Deaths,22499,West Virginia
+WV,Mar-2018,Number of Deaths,22494,West Virginia
+WV,Apr-2018,Number of Deaths,22487,West Virginia
+WV,Apr-2017,Number of Deaths,22448,West Virginia
+WV,May-2017,Number of Deaths,22418,West Virginia
+WV,Nov-2017,Number of Deaths,22403,West Virginia
+WV,Mar-2017,Number of Deaths,22371,West Virginia
+WV,Oct-2015,Number of Deaths,22365,West Virginia
+WV,Jun-2017,Number of Deaths,22365,West Virginia
+WV,Aug-2017,Number of Deaths,22358,West Virginia
+WV,Oct-2017,Number of Deaths,22354,West Virginia
+WV,Sep-2015,Number of Deaths,22294,West Virginia
+WV,Aug-2015,Number of Deaths,22290,West Virginia
+WV,Jul-2015,Number of Deaths,22290,West Virginia
+WV,Sep-2017,Number of Deaths,22283,West Virginia
+WV,Jul-2017,Number of Deaths,22275,West Virginia
+WV,Nov-2015,Number of Deaths,22251,West Virginia
+WV,Feb-2017,Number of Deaths,22226,West Virginia
+WV,May-2015,Number of Deaths,22201,West Virginia
+WV,Jan-2017,Number of Deaths,22174,West Virginia
+WV,Dec-2015,Number of Deaths,22173,West Virginia
+WV,Jun-2015,Number of Deaths,22163,West Virginia
+WV,Apr-2015,Number of Deaths,22086,West Virginia
+WV,Dec-2016,Number of Deaths,21990,West Virginia
+WV,Jan-2016,Number of Deaths,21943,West Virginia
+WV,Nov-2016,Number of Deaths,21916,West Virginia
+WV,Mar-2015,Number of Deaths,21882,West Virginia
+WV,Sep-2016,Number of Deaths,21845,West Virginia
+WV,Oct-2016,Number of Deaths,21840,West Virginia
+WV,Jul-2016,Number of Deaths,21830,West Virginia
+WV,Feb-2016,Number of Deaths,21824,West Virginia
+WV,Jun-2016,Number of Deaths,21817,West Virginia
+WV,Feb-2015,Number of Deaths,21811,West Virginia
+WV,Aug-2016,Number of Deaths,21807,West Virginia
+WV,Mar-2016,Number of Deaths,21804,West Virginia
+WV,Jan-2015,Number of Deaths,21732,West Virginia
+WV,Apr-2016,Number of Deaths,21727,West Virginia
+WV,May-2016,Number of Deaths,21717,West Virginia
+UT,May-2019,Number of Deaths,19232,Utah
+UT,Jun-2019,Number of Deaths,19228,Utah
+UT,Mar-2019,Number of Deaths,19140,Utah
+UT,Apr-2019,Number of Deaths,19119,Utah
+UT,Jan-2019,Number of Deaths,19040,Utah
+UT,Feb-2019,Number of Deaths,19004,Utah
+UT,Aug-2018,Number of Deaths,18817,Utah
+UT,Dec-2018,Number of Deaths,18796,Utah
+UT,Nov-2018,Number of Deaths,18786,Utah
+UT,Oct-2018,Number of Deaths,18781,Utah
+UT,Jul-2018,Number of Deaths,18770,Utah
+UT,Nov-2017,Number of Deaths,18748,Utah
+UT,Sep-2018,Number of Deaths,18730,Utah
+UT,Jun-2018,Number of Deaths,18685,Utah
+UT,Dec-2017,Number of Deaths,18676,Utah
+UT,May-2018,Number of Deaths,18662,Utah
+UT,Apr-2018,Number of Deaths,18619,Utah
+UT,Oct-2017,Number of Deaths,18618,Utah
+UT,Feb-2018,Number of Deaths,18577,Utah
+UT,Jan-2017,Number of Deaths,18572,Utah
+UT,Mar-2018,Number of Deaths,18554,Utah
+UT,Sep-2016,Number of Deaths,18531,Utah
+UT,Jan-2018,Number of Deaths,18521,Utah
+UT,Feb-2017,Number of Deaths,18505,Utah
+UT,Dec-2016,Number of Deaths,18498,Utah
+NM,Jan-2019,Number of Deaths,18495,New Mexico
+UT,Sep-2017,Number of Deaths,18490,Utah
+UT,Mar-2017,Number of Deaths,18482,Utah
+UT,Aug-2016,Number of Deaths,18480,Utah
+NM,May-2019,Number of Deaths,18476,New Mexico
+UT,Oct-2016,Number of Deaths,18457,Utah
+NM,Jun-2019,Number of Deaths,18455,New Mexico
+UT,Apr-2017,Number of Deaths,18455,Utah
+UT,Jul-2016,Number of Deaths,18426,Utah
+NM,Feb-2019,Number of Deaths,18421,New Mexico
+UT,May-2017,Number of Deaths,18409,Utah
+UT,Jun-2017,Number of Deaths,18401,Utah
+UT,Nov-2016,Number of Deaths,18389,Utah
+NM,Mar-2019,Number of Deaths,18388,New Mexico
+NM,Apr-2019,Number of Deaths,18382,New Mexico
+UT,Aug-2017,Number of Deaths,18360,Utah
+UT,Jul-2017,Number of Deaths,18333,Utah
+UT,Jun-2016,Number of Deaths,18315,Utah
+NM,Nov-2018,Number of Deaths,18260,New Mexico
+UT,May-2016,Number of Deaths,18259,Utah
+NM,Dec-2018,Number of Deaths,18203,New Mexico
+NM,Oct-2018,Number of Deaths,18197,New Mexico
+UT,Apr-2016,Number of Deaths,18171,Utah
+NM,Sep-2018,Number of Deaths,18163,New Mexico
+NM,Aug-2018,Number of Deaths,18068,New Mexico
+UT,Mar-2016,Number of Deaths,18065,Utah
+NM,Dec-2017,Number of Deaths,18060,New Mexico
+NM,Nov-2017,Number of Deaths,18008,New Mexico
+NM,Jul-2018,Number of Deaths,17987,New Mexico
+NM,Oct-2017,Number of Deaths,17967,New Mexico
+NM,Mar-2018,Number of Deaths,17960,New Mexico
+NM,Apr-2018,Number of Deaths,17953,New Mexico
+NM,Jun-2018,Number of Deaths,17952,New Mexico
+UT,Feb-2016,Number of Deaths,17940,Utah
+NM,Feb-2018,Number of Deaths,17923,New Mexico
+NM,Sep-2017,Number of Deaths,17922,New Mexico
+NM,Jun-2017,Number of Deaths,17918,New Mexico
+NM,Jan-2018,Number of Deaths,17915,New Mexico
+NM,Jul-2017,Number of Deaths,17911,New Mexico
+UT,Oct-2015,Number of Deaths,17898,Utah
+UT,Nov-2015,Number of Deaths,17881,Utah
+NM,May-2017,Number of Deaths,17875,New Mexico
+NM,Aug-2017,Number of Deaths,17866,New Mexico
+UT,Aug-2015,Number of Deaths,17861,Utah
+NM,Feb-2017,Number of Deaths,17857,New Mexico
+UT,Dec-2015,Number of Deaths,17845,Utah
+UT,Sep-2015,Number of Deaths,17834,Utah
+NM,May-2018,Number of Deaths,17831,New Mexico
+UT,Jan-2016,Number of Deaths,17813,Utah
+NM,Jan-2017,Number of Deaths,17805,New Mexico
+UT,Jul-2015,Number of Deaths,17792,Utah
+NM,Apr-2017,Number of Deaths,17789,New Mexico
+NM,Mar-2017,Number of Deaths,17778,New Mexico
+NM,Dec-2016,Number of Deaths,17768,New Mexico
+UT,Jun-2015,Number of Deaths,17739,Utah
+NM,Oct-2016,Number of Deaths,17701,New Mexico
+NM,Nov-2016,Number of Deaths,17672,New Mexico
+UT,May-2015,Number of Deaths,17660,Utah
+NM,Aug-2016,Number of Deaths,17651,New Mexico
+NM,Sep-2016,Number of Deaths,17636,New Mexico
+NM,Jul-2016,Number of Deaths,17593,New Mexico
+UT,Apr-2015,Number of Deaths,17578,Utah
+NM,May-2016,Number of Deaths,17557,New Mexico
+UT,Mar-2015,Number of Deaths,17543,Utah
+NM,Jun-2016,Number of Deaths,17533,New Mexico
+UT,Feb-2015,Number of Deaths,17431,Utah
+NM,Apr-2016,Number of Deaths,17421,New Mexico
+UT,Jan-2015,Number of Deaths,17303,Utah
+NM,Mar-2016,Number of Deaths,17301,New Mexico
+NM,Feb-2016,Number of Deaths,17140,New Mexico
+NE,Jul-2017,Number of Deaths,17129,Nebraska
+NE,Feb-2019,Number of Deaths,17129,Nebraska
+NM,Apr-2015,Number of Deaths,17123,New Mexico
+NE,May-2019,Number of Deaths,17113,Nebraska
+NM,Sep-2015,Number of Deaths,17113,New Mexico
+NE,Jan-2019,Number of Deaths,17112,Nebraska
+NM,Nov-2015,Number of Deaths,17110,New Mexico
+NE,Nov-2017,Number of Deaths,17099,Nebraska
+NE,Oct-2017,Number of Deaths,17094,Nebraska
+NM,Aug-2015,Number of Deaths,17087,New Mexico
+NE,Oct-2015,Number of Deaths,17086,Nebraska
+NE,Dec-2017,Number of Deaths,17084,Nebraska
+NM,Mar-2015,Number of Deaths,17080,New Mexico
+NM,Oct-2015,Number of Deaths,17073,New Mexico
+NE,Apr-2019,Number of Deaths,17072,Nebraska
+NM,Dec-2015,Number of Deaths,17062,New Mexico
+NM,Jan-2015,Number of Deaths,17051,New Mexico
+NE,Mar-2019,Number of Deaths,17049,Nebraska
+NE,Jun-2017,Number of Deaths,17048,Nebraska
+NM,Jun-2015,Number of Deaths,17045,New Mexico
+NE,Nov-2015,Number of Deaths,17034,Nebraska
+NE,Sep-2017,Number of Deaths,17032,Nebraska
+NE,Sep-2015,Number of Deaths,17022,Nebraska
+NE,Jun-2019,Number of Deaths,17021,Nebraska
+NM,Feb-2015,Number of Deaths,17019,New Mexico
+NE,Aug-2015,Number of Deaths,17015,Nebraska
+NE,Oct-2018,Number of Deaths,17015,Nebraska
+NM,May-2015,Number of Deaths,17012,New Mexico
+NE,Aug-2017,Number of Deaths,17000,Nebraska
+NM,Jul-2015,Number of Deaths,16991,New Mexico
+NM,Jan-2016,Number of Deaths,16987,New Mexico
+NE,Sep-2018,Number of Deaths,16982,Nebraska
+NE,Nov-2018,Number of Deaths,16959,Nebraska
+NE,Dec-2015,Number of Deaths,16957,Nebraska
+NE,Mar-2017,Number of Deaths,16953,Nebraska
+NE,Jul-2015,Number of Deaths,16933,Nebraska
+NE,Aug-2018,Number of Deaths,16932,Nebraska
+NE,Dec-2018,Number of Deaths,16925,Nebraska
+NE,May-2017,Number of Deaths,16904,Nebraska
+NE,Feb-2017,Number of Deaths,16872,Nebraska
+NE,Apr-2017,Number of Deaths,16866,Nebraska
+NE,Apr-2018,Number of Deaths,16860,Nebraska
+NE,Jun-2018,Number of Deaths,16858,Nebraska
+NE,Jul-2018,Number of Deaths,16843,Nebraska
+NE,May-2018,Number of Deaths,16840,Nebraska
+NE,Jun-2015,Number of Deaths,16799,Nebraska
+NE,Jan-2018,Number of Deaths,16784,Nebraska
+NE,Mar-2018,Number of Deaths,16784,Nebraska
+NE,Jan-2016,Number of Deaths,16726,Nebraska
+NE,May-2015,Number of Deaths,16725,Nebraska
+NE,Feb-2018,Number of Deaths,16685,Nebraska
+NE,Apr-2015,Number of Deaths,16670,Nebraska
+NE,Jan-2017,Number of Deaths,16669,Nebraska
+NE,Mar-2015,Number of Deaths,16621,Nebraska
+NE,Feb-2016,Number of Deaths,16581,Nebraska
+NE,Feb-2015,Number of Deaths,16509,Nebraska
+NE,Jan-2015,Number of Deaths,16421,Nebraska
+NE,Apr-2016,Number of Deaths,16419,Nebraska
+NE,Mar-2016,Number of Deaths,16408,Nebraska
+NE,Dec-2016,Number of Deaths,16400,Nebraska
+NE,May-2016,Number of Deaths,16382,Nebraska
+NE,Aug-2016,Number of Deaths,16307,Nebraska
+NE,Nov-2016,Number of Deaths,16289,Nebraska
+NE,Jun-2016,Number of Deaths,16288,Nebraska
+NE,Sep-2016,Number of Deaths,16251,Nebraska
+NE,Jul-2016,Number of Deaths,16202,Nebraska
+NE,Oct-2016,Number of Deaths,16182,Nebraska
+ME,Jun-2019,Number of Deaths,14811,Maine
+ME,May-2019,Number of Deaths,14764,Maine
+ME,Apr-2019,Number of Deaths,14714,Maine
+ME,Mar-2019,Number of Deaths,14688,Maine
+ME,Jan-2019,Number of Deaths,14556,Maine
+ME,Feb-2019,Number of Deaths,14545,Maine
+ME,Dec-2017,Number of Deaths,14513,Maine
+ME,Nov-2017,Number of Deaths,14491,Maine
+ME,Sep-2017,Number of Deaths,14479,Maine
+ME,Feb-2018,Number of Deaths,14479,Maine
+ME,Oct-2017,Number of Deaths,14467,Maine
+ME,Apr-2017,Number of Deaths,14445,Maine
+ME,Jan-2018,Number of Deaths,14443,Maine
+ME,Nov-2018,Number of Deaths,14398,Maine
+ME,Dec-2018,Number of Deaths,14392,Maine
+ME,Aug-2017,Number of Deaths,14391,Maine
+ME,Mar-2018,Number of Deaths,14390,Maine
+ME,Oct-2018,Number of Deaths,14373,Maine
+ME,Oct-2015,Number of Deaths,14368,Maine
+ME,Nov-2015,Number of Deaths,14367,Maine
+ME,Jun-2017,Number of Deaths,14362,Maine
+ME,Apr-2018,Number of Deaths,14346,Maine
+ME,May-2017,Number of Deaths,14342,Maine
+ME,Jul-2018,Number of Deaths,14330,Maine
+ME,Mar-2017,Number of Deaths,14326,Maine
+ME,Jul-2017,Number of Deaths,14325,Maine
+ME,Dec-2015,Number of Deaths,14324,Maine
+ME,Aug-2018,Number of Deaths,14313,Maine
+ME,May-2018,Number of Deaths,14313,Maine
+ME,Sep-2018,Number of Deaths,14307,Maine
+ID,Jun-2019,Number of Deaths,14301,Idaho
+ME,Sep-2015,Number of Deaths,14296,Maine
+ME,Jun-2018,Number of Deaths,14282,Maine
+ID,May-2019,Number of Deaths,14238,Idaho
+ME,Feb-2017,Number of Deaths,14224,Maine
+ID,Apr-2019,Number of Deaths,14186,Idaho
+ME,Aug-2015,Number of Deaths,14179,Maine
+ID,Feb-2019,Number of Deaths,14142,Idaho
+ID,Mar-2019,Number of Deaths,14142,Idaho
+ME,Jan-2017,Number of Deaths,14136,Maine
+ME,Jan-2016,Number of Deaths,14129,Maine
+ME,Dec-2016,Number of Deaths,14069,Maine
+ME,Jun-2016,Number of Deaths,14059,Maine
+ID,Jan-2019,Number of Deaths,14052,Idaho
+ME,Jul-2015,Number of Deaths,14052,Maine
+ME,Jul-2016,Number of Deaths,14044,Maine
+ME,May-2015,Number of Deaths,14023,Maine
+ME,Jun-2015,Number of Deaths,14016,Maine
+ME,Aug-2016,Number of Deaths,14005,Maine
+ME,Apr-2015,Number of Deaths,13993,Maine
+ID,Sep-2018,Number of Deaths,13990,Idaho
+ID,Dec-2018,Number of Deaths,13987,Idaho
+ME,Nov-2016,Number of Deaths,13983,Maine
+ID,Nov-2018,Number of Deaths,13967,Idaho
+ME,May-2016,Number of Deaths,13964,Maine
+ID,Oct-2018,Number of Deaths,13952,Idaho
+ME,Feb-2016,Number of Deaths,13952,Maine
+ID,Aug-2018,Number of Deaths,13940,Idaho
+ME,Sep-2016,Number of Deaths,13937,Maine
+ID,Nov-2017,Number of Deaths,13936,Idaho
+ID,Jul-2018,Number of Deaths,13929,Idaho
+ME,Oct-2016,Number of Deaths,13923,Maine
+ID,Dec-2017,Number of Deaths,13908,Idaho
+ME,Mar-2015,Number of Deaths,13901,Maine
+ME,Mar-2016,Number of Deaths,13897,Maine
+ID,Jun-2018,Number of Deaths,13868,Idaho
+ME,Apr-2016,Number of Deaths,13868,Maine
+ID,Oct-2017,Number of Deaths,13864,Idaho
+ME,Feb-2015,Number of Deaths,13845,Maine
+ID,May-2018,Number of Deaths,13841,Idaho
+ID,Apr-2018,Number of Deaths,13803,Idaho
+ID,Mar-2018,Number of Deaths,13783,Idaho
+ID,Sep-2017,Number of Deaths,13769,Idaho
+ID,Feb-2018,Number of Deaths,13747,Idaho
+ID,Jan-2018,Number of Deaths,13719,Idaho
+ID,Aug-2017,Number of Deaths,13656,Idaho
+ME,Jan-2015,Number of Deaths,13627,Maine
+ID,Jul-2017,Number of Deaths,13621,Idaho
+ID,Apr-2017,Number of Deaths,13619,Idaho
+ID,Mar-2017,Number of Deaths,13601,Idaho
+ID,May-2017,Number of Deaths,13588,Idaho
+ID,Jun-2017,Number of Deaths,13580,Idaho
+ID,Feb-2017,Number of Deaths,13530,Idaho
+ID,Jan-2017,Number of Deaths,13479,Idaho
+ID,Dec-2016,Number of Deaths,13297,Idaho
+ID,Aug-2016,Number of Deaths,13283,Idaho
+ID,Jul-2016,Number of Deaths,13228,Idaho
+ID,Sep-2016,Number of Deaths,13227,Idaho
+ID,Jun-2016,Number of Deaths,13221,Idaho
+ID,Oct-2016,Number of Deaths,13205,Idaho
+ID,Nov-2016,Number of Deaths,13190,Idaho
+ID,May-2016,Number of Deaths,13131,Idaho
+ID,Apr-2016,Number of Deaths,13093,Idaho
+ID,Mar-2016,Number of Deaths,13036,Idaho
+ID,Dec-2015,Number of Deaths,12987,Idaho
+ID,Feb-2016,Number of Deaths,12987,Idaho
+ID,Jul-2015,Number of Deaths,12917,Idaho
+ID,Jan-2016,Number of Deaths,12912,Idaho
+ID,Nov-2015,Number of Deaths,12905,Idaho
+ID,Oct-2015,Number of Deaths,12892,Idaho
+ID,May-2015,Number of Deaths,12849,Idaho
+ID,Aug-2015,Number of Deaths,12836,Idaho
+ID,Jun-2015,Number of Deaths,12831,Idaho
+ID,Sep-2015,Number of Deaths,12782,Idaho
+ID,Apr-2015,Number of Deaths,12753,Idaho
+ID,Mar-2015,Number of Deaths,12693,Idaho
+ID,Feb-2015,Number of Deaths,12669,Idaho
+ID,Jan-2015,Number of Deaths,12667,Idaho
+NH,Mar-2019,Number of Deaths,12549,New Hampshire
+NH,Apr-2019,Number of Deaths,12502,New Hampshire
+NH,May-2019,Number of Deaths,12478,New Hampshire
+NH,Jan-2019,Number of Deaths,12476,New Hampshire
+NH,Feb-2019,Number of Deaths,12468,New Hampshire
+NH,Jun-2019,Number of Deaths,12434,New Hampshire
+NH,Dec-2018,Number of Deaths,12370,New Hampshire
+NH,Nov-2018,Number of Deaths,12336,New Hampshire
+NH,Oct-2018,Number of Deaths,12334,New Hampshire
+NH,Nov-2017,Number of Deaths,12313,New Hampshire
+NH,Sep-2017,Number of Deaths,12299,New Hampshire
+NH,Aug-2017,Number of Deaths,12295,New Hampshire
+NH,Dec-2017,Number of Deaths,12288,New Hampshire
+NH,Oct-2017,Number of Deaths,12277,New Hampshire
+NH,May-2018,Number of Deaths,12266,New Hampshire
+NH,Jul-2018,Number of Deaths,12253,New Hampshire
+NH,Sep-2018,Number of Deaths,12252,New Hampshire
+NH,Jun-2018,Number of Deaths,12249,New Hampshire
+NH,Feb-2018,Number of Deaths,12245,New Hampshire
+NH,Jan-2018,Number of Deaths,12207,New Hampshire
+NH,Apr-2018,Number of Deaths,12205,New Hampshire
+NH,Aug-2018,Number of Deaths,12203,New Hampshire
+NH,Jul-2017,Number of Deaths,12180,New Hampshire
+NH,Mar-2018,Number of Deaths,12166,New Hampshire
+NH,Jun-2017,Number of Deaths,12159,New Hampshire
+NH,May-2017,Number of Deaths,12100,New Hampshire
+NH,Apr-2017,Number of Deaths,12068,New Hampshire
+NH,Mar-2017,Number of Deaths,12049,New Hampshire
+NH,Feb-2017,Number of Deaths,11984,New Hampshire
+NH,Jan-2017,Number of Deaths,11958,New Hampshire
+NH,Dec-2016,Number of Deaths,11909,New Hampshire
+NH,Oct-2015,Number of Deaths,11802,New Hampshire
+NH,Sep-2015,Number of Deaths,11775,New Hampshire
+NH,Jul-2015,Number of Deaths,11755,New Hampshire
+NH,Aug-2015,Number of Deaths,11754,New Hampshire
+NH,Nov-2016,Number of Deaths,11738,New Hampshire
+NH,Nov-2015,Number of Deaths,11736,New Hampshire
+NH,Dec-2015,Number of Deaths,11724,New Hampshire
+NH,Oct-2016,Number of Deaths,11714,New Hampshire
+HI,Jun-2019,Number of Deaths,11705,Hawaii
+HI,May-2019,Number of Deaths,11698,Hawaii
+NH,May-2015,Number of Deaths,11690,New Hampshire
+NH,Apr-2015,Number of Deaths,11681,New Hampshire
+NH,Jun-2015,Number of Deaths,11644,New Hampshire
+NH,Sep-2016,Number of Deaths,11632,New Hampshire
+HI,Apr-2019,Number of Deaths,11625,Hawaii
+NH,Jan-2016,Number of Deaths,11617,New Hampshire
+NH,Aug-2016,Number of Deaths,11597,New Hampshire
+HI,Mar-2019,Number of Deaths,11590,Hawaii
+NH,Mar-2016,Number of Deaths,11567,New Hampshire
+NH,Jul-2016,Number of Deaths,11562,New Hampshire
+HI,Jan-2019,Number of Deaths,11560,Hawaii
+NH,Apr-2016,Number of Deaths,11555,New Hampshire
+NH,Feb-2016,Number of Deaths,11550,New Hampshire
+HI,Feb-2019,Number of Deaths,11548,Hawaii
+NH,Mar-2015,Number of Deaths,11545,New Hampshire
+NH,Jun-2016,Number of Deaths,11531,New Hampshire
+NH,May-2016,Number of Deaths,11524,New Hampshire
+HI,Oct-2018,Number of Deaths,11516,Hawaii
+HI,Apr-2018,Number of Deaths,11512,Hawaii
+HI,Dec-2017,Number of Deaths,11508,Hawaii
+HI,Sep-2018,Number of Deaths,11507,Hawaii
+HI,Nov-2018,Number of Deaths,11506,Hawaii
+HI,Jul-2018,Number of Deaths,11503,Hawaii
+HI,Mar-2018,Number of Deaths,11497,Hawaii
+NH,Feb-2015,Number of Deaths,11493,New Hampshire
+HI,Jun-2018,Number of Deaths,11487,Hawaii
+HI,Aug-2018,Number of Deaths,11480,Hawaii
+HI,May-2018,Number of Deaths,11459,Hawaii
+HI,Nov-2017,Number of Deaths,11450,Hawaii
+HI,Dec-2018,Number of Deaths,11427,Hawaii
+HI,Sep-2017,Number of Deaths,11426,Hawaii
+HI,Feb-2018,Number of Deaths,11416,Hawaii
+HI,Aug-2017,Number of Deaths,11409,Hawaii
+HI,Oct-2017,Number of Deaths,11391,Hawaii
+HI,Jul-2017,Number of Deaths,11384,Hawaii
+HI,Jun-2017,Number of Deaths,11380,Hawaii
+HI,Jan-2018,Number of Deaths,11356,Hawaii
+NH,Jan-2015,Number of Deaths,11342,New Hampshire
+HI,May-2017,Number of Deaths,11306,Hawaii
+HI,Dec-2015,Number of Deaths,11208,Hawaii
+HI,Apr-2017,Number of Deaths,11205,Hawaii
+HI,Nov-2015,Number of Deaths,11203,Hawaii
+HI,Oct-2015,Number of Deaths,11187,Hawaii
+HI,Sep-2015,Number of Deaths,11154,Hawaii
+HI,Jan-2017,Number of Deaths,11142,Hawaii
+HI,Mar-2017,Number of Deaths,11136,Hawaii
+HI,Aug-2015,Number of Deaths,11116,Hawaii
+HI,Jul-2015,Number of Deaths,11111,Hawaii
+HI,Feb-2017,Number of Deaths,11111,Hawaii
+HI,Jun-2015,Number of Deaths,11100,Hawaii
+HI,Feb-2015,Number of Deaths,11076,Hawaii
+HI,Mar-2015,Number of Deaths,11073,Hawaii
+HI,Jan-2016,Number of Deaths,11070,Hawaii
+HI,Mar-2016,Number of Deaths,11067,Hawaii
+HI,Feb-2016,Number of Deaths,11065,Hawaii
+HI,May-2015,Number of Deaths,11063,Hawaii
+HI,Apr-2016,Number of Deaths,11057,Hawaii
+HI,Dec-2016,Number of Deaths,11041,Hawaii
+HI,Apr-2015,Number of Deaths,11031,Hawaii
+HI,Jan-2015,Number of Deaths,11026,Hawaii
+HI,May-2016,Number of Deaths,10969,Hawaii
+HI,Nov-2016,Number of Deaths,10939,Hawaii
+HI,Jun-2016,Number of Deaths,10901,Hawaii
+HI,Jul-2016,Number of Deaths,10896,Hawaii
+HI,Aug-2016,Number of Deaths,10892,Hawaii
+HI,Oct-2016,Number of Deaths,10870,Hawaii
+HI,Sep-2016,Number of Deaths,10824,Hawaii
+RI,Mar-2019,Number of Deaths,10574,Rhode Island
+RI,Jun-2019,Number of Deaths,10504,Rhode Island
+RI,Apr-2019,Number of Deaths,10502,Rhode Island
+RI,Nov-2015,Number of Deaths,10496,Rhode Island
+RI,May-2019,Number of Deaths,10483,Rhode Island
+RI,Oct-2015,Number of Deaths,10476,Rhode Island
+RI,Feb-2019,Number of Deaths,10457,Rhode Island
+RI,Jan-2019,Number of Deaths,10450,Rhode Island
+RI,Dec-2017,Number of Deaths,10444,Rhode Island
+RI,Sep-2015,Number of Deaths,10414,Rhode Island
+MT,Jun-2019,Number of Deaths,10393,Montana
+RI,Sep-2017,Number of Deaths,10391,Rhode Island
+RI,Dec-2015,Number of Deaths,10388,Rhode Island
+RI,Oct-2018,Number of Deaths,10382,Rhode Island
+RI,Nov-2017,Number of Deaths,10379,Rhode Island
+RI,Jan-2018,Number of Deaths,10378,Rhode Island
+RI,Nov-2018,Number of Deaths,10377,Rhode Island
+RI,Jul-2017,Number of Deaths,10374,Rhode Island
+RI,Aug-2015,Number of Deaths,10369,Rhode Island
+RI,Jul-2015,Number of Deaths,10365,Rhode Island
+RI,Oct-2017,Number of Deaths,10351,Rhode Island
+RI,Aug-2017,Number of Deaths,10345,Rhode Island
+MT,May-2019,Number of Deaths,10340,Montana
+MT,Nov-2017,Number of Deaths,10335,Montana
+RI,Jun-2017,Number of Deaths,10333,Rhode Island
+RI,Sep-2018,Number of Deaths,10311,Rhode Island
+MT,Oct-2017,Number of Deaths,10309,Montana
+RI,Dec-2018,Number of Deaths,10305,Rhode Island
+MT,Aug-2017,Number of Deaths,10300,Montana
+RI,Aug-2018,Number of Deaths,10293,Rhode Island
+MT,Jun-2017,Number of Deaths,10292,Montana
+RI,Jun-2015,Number of Deaths,10286,Rhode Island
+RI,Feb-2018,Number of Deaths,10285,Rhode Island
+MT,Sep-2017,Number of Deaths,10278,Montana
+MT,Jul-2017,Number of Deaths,10277,Montana
+RI,Jan-2016,Number of Deaths,10273,Rhode Island
+MT,Dec-2017,Number of Deaths,10270,Montana
+RI,Mar-2015,Number of Deaths,10268,Rhode Island
+MT,Apr-2019,Number of Deaths,10258,Montana
+RI,May-2017,Number of Deaths,10258,Rhode Island
+RI,Jul-2018,Number of Deaths,10254,Rhode Island
+RI,Feb-2016,Number of Deaths,10251,Rhode Island
+RI,Apr-2015,Number of Deaths,10249,Rhode Island
+RI,May-2018,Number of Deaths,10240,Rhode Island
+RI,May-2015,Number of Deaths,10238,Rhode Island
+MT,May-2017,Number of Deaths,10237,Montana
+RI,Jun-2018,Number of Deaths,10231,Rhode Island
+MT,Mar-2017,Number of Deaths,10229,Montana
+MT,Mar-2019,Number of Deaths,10226,Montana
+RI,Apr-2017,Number of Deaths,10226,Rhode Island
+MT,Apr-2017,Number of Deaths,10217,Montana
+RI,Apr-2018,Number of Deaths,10209,Rhode Island
+RI,Feb-2015,Number of Deaths,10206,Rhode Island
+RI,Mar-2017,Number of Deaths,10187,Rhode Island
+RI,Mar-2018,Number of Deaths,10175,Rhode Island
+RI,Mar-2016,Number of Deaths,10173,Rhode Island
+RI,Apr-2016,Number of Deaths,10159,Rhode Island
+MT,Feb-2019,Number of Deaths,10146,Montana
+MT,Feb-2017,Number of Deaths,10131,Montana
+RI,May-2016,Number of Deaths,10131,Rhode Island
+RI,Jan-2015,Number of Deaths,10111,Rhode Island
+RI,Feb-2017,Number of Deaths,10107,Rhode Island
+MT,Jan-2019,Number of Deaths,10094,Montana
+RI,Jan-2017,Number of Deaths,10075,Rhode Island
+MT,Jan-2018,Number of Deaths,10073,Montana
+RI,Jun-2016,Number of Deaths,10072,Rhode Island
+MT,Jan-2017,Number of Deaths,10052,Montana
+RI,Dec-2016,Number of Deaths,10023,Rhode Island
+MT,Feb-2018,Number of Deaths,9998,Montana
+RI,Aug-2016,Number of Deaths,9997,Rhode Island
+RI,Sep-2016,Number of Deaths,9985,Rhode Island
+MT,Apr-2016,Number of Deaths,9973,Montana
+RI,Jul-2016,Number of Deaths,9973,Rhode Island
+RI,Oct-2016,Number of Deaths,9950,Rhode Island
+MT,Dec-2016,Number of Deaths,9941,Montana
+RI,Nov-2016,Number of Deaths,9940,Rhode Island
+MT,Mar-2016,Number of Deaths,9939,Montana
+MT,May-2016,Number of Deaths,9938,Montana
+MT,Apr-2018,Number of Deaths,9931,Montana
+MT,Mar-2018,Number of Deaths,9925,Montana
+MT,Feb-2016,Number of Deaths,9921,Montana
+MT,Jul-2016,Number of Deaths,9913,Montana
+MT,Nov-2018,Number of Deaths,9907,Montana
+MT,Nov-2016,Number of Deaths,9904,Montana
+MT,Dec-2015,Number of Deaths,9901,Montana
+MT,Dec-2018,Number of Deaths,9891,Montana
+MT,Aug-2016,Number of Deaths,9886,Montana
+MT,Oct-2016,Number of Deaths,9873,Montana
+MT,Jun-2016,Number of Deaths,9863,Montana
+MT,Sep-2016,Number of Deaths,9863,Montana
+MT,Oct-2018,Number of Deaths,9857,Montana
+MT,Sep-2018,Number of Deaths,9856,Montana
+MT,Jan-2016,Number of Deaths,9832,Montana
+MT,May-2018,Number of Deaths,9820,Montana
+MT,Oct-2015,Number of Deaths,9817,Montana
+MT,Jun-2018,Number of Deaths,9813,Montana
+MT,Jul-2018,Number of Deaths,9809,Montana
+MT,Aug-2018,Number of Deaths,9805,Montana
+MT,Nov-2015,Number of Deaths,9779,Montana
+MT,Aug-2015,Number of Deaths,9778,Montana
+MT,Sep-2015,Number of Deaths,9754,Montana
+MT,Jul-2015,Number of Deaths,9716,Montana
+MT,Jun-2015,Number of Deaths,9669,Montana
+MT,May-2015,Number of Deaths,9609,Montana
+MT,Apr-2015,Number of Deaths,9508,Montana
+MT,Jan-2015,Number of Deaths,9502,Montana
+MT,Feb-2015,Number of Deaths,9500,Montana
+MT,Mar-2015,Number of Deaths,9476,Montana
+DE,Jan-2019,Number of Deaths,9473,Delaware
+DE,Oct-2018,Number of Deaths,9437,Delaware
+DE,Nov-2018,Number of Deaths,9435,Delaware
+DE,Feb-2019,Number of Deaths,9411,Delaware
+DE,Sep-2018,Number of Deaths,9407,Delaware
+DE,Aug-2018,Number of Deaths,9390,Delaware
+DE,Mar-2019,Number of Deaths,9383,Delaware
+DE,Dec-2018,Number of Deaths,9377,Delaware
+DE,Jul-2018,Number of Deaths,9355,Delaware
+DE,Jun-2018,Number of Deaths,9299,Delaware
+DE,Apr-2019,Number of Deaths,9280,Delaware
+DE,May-2019,Number of Deaths,9280,Delaware
+DE,Jun-2019,Number of Deaths,9249,Delaware
+DE,May-2018,Number of Deaths,9208,Delaware
+DE,Apr-2017,Number of Deaths,9150,Delaware
+DE,Apr-2018,Number of Deaths,9137,Delaware
+DE,Dec-2017,Number of Deaths,9132,Delaware
+DE,May-2017,Number of Deaths,9119,Delaware
+DE,Jul-2017,Number of Deaths,9108,Delaware
+DE,Mar-2017,Number of Deaths,9099,Delaware
+DE,Jun-2017,Number of Deaths,9098,Delaware
+DE,Mar-2018,Number of Deaths,9094,Delaware
+DE,Aug-2017,Number of Deaths,9089,Delaware
+DE,Feb-2017,Number of Deaths,9085,Delaware
+DE,Feb-2018,Number of Deaths,9064,Delaware
+DE,Jan-2017,Number of Deaths,9058,Delaware
+DE,Nov-2017,Number of Deaths,9047,Delaware
+DE,Sep-2017,Number of Deaths,9045,Delaware
+DE,Oct-2017,Number of Deaths,9016,Delaware
+DE,Jan-2018,Number of Deaths,9001,Delaware
+DE,Dec-2016,Number of Deaths,8980,Delaware
+DE,Nov-2016,Number of Deaths,8889,Delaware
+DE,Oct-2016,Number of Deaths,8809,Delaware
+DE,Sep-2016,Number of Deaths,8740,Delaware
+DE,Sep-2015,Number of Deaths,8686,Delaware
+DE,Nov-2015,Number of Deaths,8666,Delaware
+DE,Aug-2016,Number of Deaths,8666,Delaware
+DE,Oct-2015,Number of Deaths,8661,Delaware
+DE,Aug-2015,Number of Deaths,8648,Delaware
+DE,Jul-2015,Number of Deaths,8642,Delaware
+DE,Jul-2016,Number of Deaths,8609,Delaware
+DE,Dec-2015,Number of Deaths,8591,Delaware
+DE,May-2015,Number of Deaths,8583,Delaware
+DE,Apr-2015,Number of Deaths,8580,Delaware
+DE,Jun-2015,Number of Deaths,8577,Delaware
+DE,Jun-2016,Number of Deaths,8571,Delaware
+DE,Feb-2015,Number of Deaths,8561,Delaware
+DE,Mar-2016,Number of Deaths,8555,Delaware
+DE,May-2016,Number of Deaths,8553,Delaware
+DE,Mar-2015,Number of Deaths,8551,Delaware
+DE,Apr-2016,Number of Deaths,8530,Delaware
+DE,Jan-2015,Number of Deaths,8485,Delaware
+DE,Jan-2016,Number of Deaths,8485,Delaware
+DE,Feb-2016,Number of Deaths,8473,Delaware
+SD,Jun-2019,Number of Deaths,8261,South Dakota
+SD,May-2019,Number of Deaths,8251,South Dakota
+SD,Oct-2017,Number of Deaths,8207,South Dakota
+SD,Nov-2017,Number of Deaths,8203,South Dakota
+SD,Mar-2017,Number of Deaths,8192,South Dakota
+SD,Jun-2017,Number of Deaths,8188,South Dakota
+SD,Apr-2019,Number of Deaths,8176,South Dakota
+SD,May-2017,Number of Deaths,8170,South Dakota
+SD,Apr-2017,Number of Deaths,8157,South Dakota
+SD,Aug-2017,Number of Deaths,8155,South Dakota
+SD,Sep-2017,Number of Deaths,8154,South Dakota
+SD,Jul-2017,Number of Deaths,8153,South Dakota
+SD,Dec-2017,Number of Deaths,8140,South Dakota
+SD,Feb-2017,Number of Deaths,8136,South Dakota
+SD,Mar-2019,Number of Deaths,8108,South Dakota
+SD,Feb-2019,Number of Deaths,8105,South Dakota
+SD,Jan-2019,Number of Deaths,8103,South Dakota
+SD,Jan-2017,Number of Deaths,8046,South Dakota
+SD,Sep-2018,Number of Deaths,8046,South Dakota
+SD,Jan-2018,Number of Deaths,8040,South Dakota
+SD,Dec-2018,Number of Deaths,8028,South Dakota
+SD,Oct-2018,Number of Deaths,8024,South Dakota
+SD,Nov-2018,Number of Deaths,8007,South Dakota
+SD,Jul-2018,Number of Deaths,8001,South Dakota
+SD,Aug-2018,Number of Deaths,7986,South Dakota
+SD,Feb-2018,Number of Deaths,7983,South Dakota
+SD,Sep-2015,Number of Deaths,7950,South Dakota
+SD,Mar-2018,Number of Deaths,7949,South Dakota
+SD,Dec-2016,Number of Deaths,7945,South Dakota
+SD,Oct-2015,Number of Deaths,7943,South Dakota
+SD,Jun-2018,Number of Deaths,7932,South Dakota
+SD,Apr-2018,Number of Deaths,7928,South Dakota
+SD,May-2018,Number of Deaths,7923,South Dakota
+SD,Nov-2015,Number of Deaths,7915,South Dakota
+SD,Nov-2016,Number of Deaths,7904,South Dakota
+SD,Jul-2015,Number of Deaths,7899,South Dakota
+SD,Dec-2015,Number of Deaths,7894,South Dakota
+SD,Aug-2015,Number of Deaths,7891,South Dakota
+SD,Aug-2016,Number of Deaths,7869,South Dakota
+SD,May-2016,Number of Deaths,7862,South Dakota
+SD,Jun-2016,Number of Deaths,7856,South Dakota
+SD,Jun-2015,Number of Deaths,7851,South Dakota
+SD,Apr-2016,Number of Deaths,7847,South Dakota
+SD,Jul-2016,Number of Deaths,7843,South Dakota
+SD,Oct-2016,Number of Deaths,7824,South Dakota
+SD,Feb-2016,Number of Deaths,7812,South Dakota
+SD,Sep-2016,Number of Deaths,7808,South Dakota
+SD,Mar-2016,Number of Deaths,7799,South Dakota
+SD,Jan-2016,Number of Deaths,7793,South Dakota
+SD,May-2015,Number of Deaths,7758,South Dakota
+SD,Apr-2015,Number of Deaths,7742,South Dakota
+SD,Mar-2015,Number of Deaths,7720,South Dakota
+SD,Jan-2015,Number of Deaths,7700,South Dakota
+SD,Feb-2015,Number of Deaths,7684,South Dakota
+ND,Jun-2019,Number of Deaths,7196,North Dakota
+ND,May-2019,Number of Deaths,7124,North Dakota
+ND,Dec-2017,Number of Deaths,7088,North Dakota
+ND,Sep-2017,Number of Deaths,7079,North Dakota
+ND,Nov-2017,Number of Deaths,7064,North Dakota
+ND,Jan-2018,Number of Deaths,7057,North Dakota
+ND,Oct-2017,Number of Deaths,7047,North Dakota
+ND,Feb-2018,Number of Deaths,7044,North Dakota
+ND,Aug-2017,Number of Deaths,7041,North Dakota
+ND,Jul-2015,Number of Deaths,7028,North Dakota
+ND,Sep-2015,Number of Deaths,7028,North Dakota
+ND,Apr-2019,Number of Deaths,7028,North Dakota
+ND,Mar-2018,Number of Deaths,7025,North Dakota
+ND,Aug-2015,Number of Deaths,7020,North Dakota
+ND,Jun-2015,Number of Deaths,6988,North Dakota
+ND,Nov-2015,Number of Deaths,6985,North Dakota
+ND,Apr-2018,Number of Deaths,6984,North Dakota
+ND,Feb-2019,Number of Deaths,6984,North Dakota
+ND,Jan-2019,Number of Deaths,6980,North Dakota
+ND,Jul-2017,Number of Deaths,6979,North Dakota
+ND,Oct-2015,Number of Deaths,6977,North Dakota
+ND,Jul-2018,Number of Deaths,6972,North Dakota
+ND,May-2018,Number of Deaths,6972,North Dakota
+ND,Jun-2017,Number of Deaths,6971,North Dakota
+ND,May-2017,Number of Deaths,6971,North Dakota
+ND,Apr-2017,Number of Deaths,6970,North Dakota
+ND,Mar-2019,Number of Deaths,6970,North Dakota
+ND,Apr-2015,Number of Deaths,6955,North Dakota
+ND,Jun-2018,Number of Deaths,6946,North Dakota
+ND,May-2015,Number of Deaths,6945,North Dakota
+ND,Oct-2018,Number of Deaths,6945,North Dakota
+ND,Nov-2018,Number of Deaths,6938,North Dakota
+ND,Dec-2018,Number of Deaths,6936,North Dakota
+ND,Aug-2018,Number of Deaths,6931,North Dakota
+ND,Mar-2015,Number of Deaths,6919,North Dakota
+ND,Sep-2018,Number of Deaths,6915,North Dakota
+ND,Feb-2015,Number of Deaths,6914,North Dakota
+ND,Mar-2017,Number of Deaths,6902,North Dakota
+ND,Jan-2015,Number of Deaths,6887,North Dakota
+ND,Feb-2017,Number of Deaths,6886,North Dakota
+ND,Dec-2015,Number of Deaths,6876,North Dakota
+ND,Jan-2017,Number of Deaths,6844,North Dakota
+ND,Dec-2016,Number of Deaths,6806,North Dakota
+ND,Jan-2016,Number of Deaths,6754,North Dakota
+ND,Nov-2016,Number of Deaths,6741,North Dakota
+ND,Feb-2016,Number of Deaths,6730,North Dakota
+ND,Mar-2016,Number of Deaths,6724,North Dakota
+ND,Jun-2016,Number of Deaths,6714,North Dakota
+ND,Oct-2016,Number of Deaths,6706,North Dakota
+ND,May-2016,Number of Deaths,6700,North Dakota
+ND,Apr-2016,Number of Deaths,6679,North Dakota
+ND,Jul-2016,Number of Deaths,6674,North Dakota
+ND,Aug-2016,Number of Deaths,6642,North Dakota
+ND,Sep-2016,Number of Deaths,6617,North Dakota
+DC,Jun-2017,Number of Deaths,6328,District of Columbia
+DC,Jul-2017,Number of Deaths,6314,District of Columbia
+DC,Sep-2017,Number of Deaths,6302,District of Columbia
+DC,Oct-2017,Number of Deaths,6301,District of Columbia
+DC,Aug-2017,Number of Deaths,6296,District of Columbia
+DC,May-2017,Number of Deaths,6287,District of Columbia
+DC,Nov-2017,Number of Deaths,6257,District of Columbia
+DC,Apr-2017,Number of Deaths,6241,District of Columbia
+DC,Dec-2017,Number of Deaths,6238,District of Columbia
+DC,Mar-2017,Number of Deaths,6227,District of Columbia
+DC,Jan-2018,Number of Deaths,6210,District of Columbia
+DC,Feb-2018,Number of Deaths,6192,District of Columbia
+DC,Feb-2017,Number of Deaths,6177,District of Columbia
+DC,Nov-2018,Number of Deaths,6154,District of Columbia
+DC,Mar-2018,Number of Deaths,6152,District of Columbia
+DC,Oct-2018,Number of Deaths,6136,District of Columbia
+DC,Jan-2017,Number of Deaths,6128,District of Columbia
+DC,Aug-2018,Number of Deaths,6126,District of Columbia
+DC,Apr-2018,Number of Deaths,6118,District of Columbia
+DC,Sep-2018,Number of Deaths,6107,District of Columbia
+DC,Jul-2018,Number of Deaths,6103,District of Columbia
+DC,May-2018,Number of Deaths,6097,District of Columbia
+DC,Dec-2018,Number of Deaths,6093,District of Columbia
+DC,Jun-2018,Number of Deaths,6089,District of Columbia
+DC,Jan-2019,Number of Deaths,6079,District of Columbia
+DC,Dec-2016,Number of Deaths,6055,District of Columbia
+DC,Feb-2019,Number of Deaths,6048,District of Columbia
+DC,Mar-2019,Number of Deaths,5995,District of Columbia
+DC,Apr-2019,Number of Deaths,5985,District of Columbia
+DC,May-2019,Number of Deaths,5950,District of Columbia
+DC,Nov-2016,Number of Deaths,5933,District of Columbia
+DC,Jun-2019,Number of Deaths,5903,District of Columbia
+DC,Oct-2016,Number of Deaths,5876,District of Columbia
+DC,Sep-2016,Number of Deaths,5869,District of Columbia
+VT,Apr-2017,Number of Deaths,5838,Vermont
+VT,Jan-2017,Number of Deaths,5821,Vermont
+VT,Jun-2015,Number of Deaths,5819,Vermont
+VT,Jul-2015,Number of Deaths,5816,Vermont
+VT,May-2017,Number of Deaths,5815,Vermont
+VT,Jun-2017,Number of Deaths,5811,Vermont
+VT,Oct-2018,Number of Deaths,5801,Vermont
+VT,May-2015,Number of Deaths,5799,Vermont
+VT,Feb-2017,Number of Deaths,5799,Vermont
+VT,Aug-2015,Number of Deaths,5793,Vermont
+VT,Mar-2017,Number of Deaths,5792,Vermont
+VT,Nov-2018,Number of Deaths,5791,Vermont
+DC,Aug-2016,Number of Deaths,5789,District of Columbia
+VT,Dec-2016,Number of Deaths,5787,Vermont
+VT,Jul-2017,Number of Deaths,5781,Vermont
+VT,Feb-2018,Number of Deaths,5781,Vermont
+VT,Aug-2017,Number of Deaths,5780,Vermont
+VT,Nov-2017,Number of Deaths,5779,Vermont
+VT,Apr-2015,Number of Deaths,5776,Vermont
+VT,Oct-2016,Number of Deaths,5775,Vermont
+VT,Dec-2017,Number of Deaths,5775,Vermont
+VT,Sep-2017,Number of Deaths,5774,Vermont
+DC,Jul-2016,Number of Deaths,5770,District of Columbia
+VT,Dec-2015,Number of Deaths,5770,Vermont
+VT,Oct-2017,Number of Deaths,5763,Vermont
+DC,Nov-2015,Number of Deaths,5754,District of Columbia
+VT,Sep-2016,Number of Deaths,5754,Vermont
+VT,Jan-2018,Number of Deaths,5752,Vermont
+VT,Sep-2018,Number of Deaths,5751,Vermont
+VT,Mar-2018,Number of Deaths,5750,Vermont
+VT,Nov-2016,Number of Deaths,5749,Vermont
+VT,Sep-2015,Number of Deaths,5748,Vermont
+DC,Apr-2015,Number of Deaths,5740,District of Columbia
+VT,Nov-2015,Number of Deaths,5737,Vermont
+VT,Jan-2016,Number of Deaths,5734,Vermont
+VT,Jun-2019,Number of Deaths,5733,Vermont
+DC,Jun-2016,Number of Deaths,5731,District of Columbia
+VT,May-2019,Number of Deaths,5730,Vermont
+VT,Mar-2016,Number of Deaths,5729,Vermont
+VT,Aug-2016,Number of Deaths,5728,Vermont
+VT,Apr-2018,Number of Deaths,5727,Vermont
+VT,Apr-2019,Number of Deaths,5727,Vermont
+VT,Jun-2018,Number of Deaths,5722,Vermont
+VT,Aug-2018,Number of Deaths,5721,Vermont
+VT,Dec-2018,Number of Deaths,5720,Vermont
+DC,Oct-2015,Number of Deaths,5719,District of Columbia
+DC,May-2016,Number of Deaths,5719,District of Columbia
+VT,Jul-2018,Number of Deaths,5718,Vermont
+VT,Jul-2016,Number of Deaths,5715,Vermont
+VT,Oct-2015,Number of Deaths,5711,Vermont
+VT,Feb-2016,Number of Deaths,5710,Vermont
+VT,Jan-2019,Number of Deaths,5710,Vermont
+DC,Dec-2015,Number of Deaths,5706,District of Columbia
+DC,May-2015,Number of Deaths,5706,District of Columbia
+DC,Mar-2015,Number of Deaths,5704,District of Columbia
+DC,Aug-2015,Number of Deaths,5703,District of Columbia
+VT,May-2018,Number of Deaths,5703,Vermont
+VT,Mar-2019,Number of Deaths,5684,Vermont
+DC,Sep-2015,Number of Deaths,5683,District of Columbia
+VT,Mar-2015,Number of Deaths,5683,Vermont
+VT,Feb-2019,Number of Deaths,5679,Vermont
+DC,Jun-2015,Number of Deaths,5678,District of Columbia
+VT,May-2016,Number of Deaths,5671,Vermont
+VT,Jun-2016,Number of Deaths,5670,Vermont
+DC,Jul-2015,Number of Deaths,5668,District of Columbia
+VT,Apr-2016,Number of Deaths,5666,Vermont
+DC,Apr-2016,Number of Deaths,5662,District of Columbia
+VT,Feb-2015,Number of Deaths,5639,Vermont
+DC,Feb-2015,Number of Deaths,5632,District of Columbia
+DC,Mar-2016,Number of Deaths,5620,District of Columbia
+DC,Jan-2016,Number of Deaths,5616,District of Columbia
+DC,Feb-2016,Number of Deaths,5610,District of Columbia
+DC,Jan-2015,Number of Deaths,5589,District of Columbia
+VT,Jan-2015,Number of Deaths,5573,Vermont
+WY,Jun-2019,Number of Deaths,4706,Wyoming
+WY,May-2019,Number of Deaths,4687,Wyoming
+WY,Mar-2019,Number of Deaths,4658,Wyoming
+WY,Jan-2019,Number of Deaths,4646,Wyoming
+WY,Apr-2019,Number of Deaths,4641,Wyoming
+WY,Feb-2019,Number of Deaths,4628,Wyoming
+WY,Dec-2018,Number of Deaths,4614,Wyoming
+WY,Nov-2018,Number of Deaths,4557,Wyoming
+WY,Aug-2015,Number of Deaths,4541,Wyoming
+WY,Apr-2015,Number of Deaths,4526,Wyoming
+AK,Jun-2019,Number of Deaths,4523,Alaska
+WY,Jul-2015,Number of Deaths,4521,Wyoming
+WY,Oct-2018,Number of Deaths,4519,Wyoming
+WY,Sep-2018,Number of Deaths,4511,Wyoming
+WY,Sep-2015,Number of Deaths,4508,Wyoming
+WY,Dec-2015,Number of Deaths,4507,Wyoming
+WY,May-2015,Number of Deaths,4507,Wyoming
+WY,Nov-2015,Number of Deaths,4500,Wyoming
+WY,Oct-2015,Number of Deaths,4499,Wyoming
+WY,Jun-2015,Number of Deaths,4487,Wyoming
+AK,May-2019,Number of Deaths,4466,Alaska
+WY,Aug-2018,Number of Deaths,4461,Wyoming
+WY,Mar-2015,Number of Deaths,4456,Wyoming
+WY,Feb-2016,Number of Deaths,4454,Wyoming
+WY,Jul-2018,Number of Deaths,4454,Wyoming
+AK,Mar-2019,Number of Deaths,4447,Alaska
+WY,Jan-2016,Number of Deaths,4445,Wyoming
+WY,Jun-2016,Number of Deaths,4430,Wyoming
+WY,Mar-2016,Number of Deaths,4422,Wyoming
+AK,Apr-2019,Number of Deaths,4411,Alaska
+WY,Mar-2018,Number of Deaths,4405,Wyoming
+WY,May-2016,Number of Deaths,4404,Wyoming
+WY,Jun-2018,Number of Deaths,4399,Wyoming
+WY,Apr-2018,Number of Deaths,4396,Wyoming
+WY,May-2018,Number of Deaths,4396,Wyoming
+WY,Feb-2015,Number of Deaths,4395,Wyoming
+WY,Aug-2016,Number of Deaths,4395,Wyoming
+AK,Feb-2019,Number of Deaths,4392,Alaska
+WY,Jul-2016,Number of Deaths,4387,Wyoming
+WY,May-2017,Number of Deaths,4383,Wyoming
+WY,Apr-2017,Number of Deaths,4380,Wyoming
+WY,Nov-2017,Number of Deaths,4380,Wyoming
+WY,Feb-2018,Number of Deaths,4380,Wyoming
+WY,Apr-2016,Number of Deaths,4379,Wyoming
+AK,Jan-2017,Number of Deaths,4374,Alaska
+WY,Dec-2017,Number of Deaths,4374,Wyoming
+WY,Jan-2018,Number of Deaths,4374,Wyoming
+WY,Jan-2015,Number of Deaths,4365,Wyoming
+WY,Oct-2016,Number of Deaths,4365,Wyoming
+AK,Jan-2019,Number of Deaths,4363,Alaska
+AK,Mar-2017,Number of Deaths,4359,Alaska
+WY,Sep-2016,Number of Deaths,4358,Wyoming
+AK,Dec-2016,Number of Deaths,4355,Alaska
+WY,Oct-2017,Number of Deaths,4354,Wyoming
+WY,Jan-2017,Number of Deaths,4352,Wyoming
+AK,Feb-2017,Number of Deaths,4347,Alaska
+WY,Dec-2016,Number of Deaths,4347,Wyoming
+WY,Mar-2017,Number of Deaths,4346,Wyoming
+AK,Aug-2018,Number of Deaths,4339,Alaska
+WY,Feb-2017,Number of Deaths,4339,Wyoming
+WY,Nov-2016,Number of Deaths,4337,Wyoming
+WY,Sep-2017,Number of Deaths,4332,Wyoming
+AK,Apr-2017,Number of Deaths,4325,Alaska
+WY,Jun-2017,Number of Deaths,4323,Wyoming
+WY,Jul-2017,Number of Deaths,4321,Wyoming
+AK,Nov-2017,Number of Deaths,4308,Alaska
+AK,May-2018,Number of Deaths,4306,Alaska
+AK,Sep-2017,Number of Deaths,4299,Alaska
+WY,Aug-2017,Number of Deaths,4297,Wyoming
+AK,Apr-2018,Number of Deaths,4295,Alaska
+AK,Dec-2018,Number of Deaths,4294,Alaska
+AK,Jul-2018,Number of Deaths,4292,Alaska
+AK,Oct-2016,Number of Deaths,4291,Alaska
+AK,Nov-2018,Number of Deaths,4291,Alaska
+AK,Nov-2016,Number of Deaths,4289,Alaska
+AK,Oct-2017,Number of Deaths,4283,Alaska
+AK,Sep-2018,Number of Deaths,4281,Alaska
+AK,Dec-2017,Number of Deaths,4279,Alaska
+AK,May-2017,Number of Deaths,4277,Alaska
+AK,Aug-2016,Number of Deaths,4276,Alaska
+AK,Jun-2017,Number of Deaths,4276,Alaska
+AK,Jul-2016,Number of Deaths,4269,Alaska
+AK,Oct-2018,Number of Deaths,4267,Alaska
+AK,Jun-2018,Number of Deaths,4263,Alaska
+AK,Apr-2016,Number of Deaths,4262,Alaska
+AK,Jun-2016,Number of Deaths,4261,Alaska
+AK,Feb-2018,Number of Deaths,4258,Alaska
+AK,Sep-2016,Number of Deaths,4256,Alaska
+AK,Sep-2015,Number of Deaths,4242,Alaska
+AK,Oct-2015,Number of Deaths,4241,Alaska
+AK,May-2016,Number of Deaths,4241,Alaska
+AK,Mar-2018,Number of Deaths,4240,Alaska
+AK,Jul-2017,Number of Deaths,4236,Alaska
+AK,Aug-2017,Number of Deaths,4234,Alaska
+AK,Mar-2016,Number of Deaths,4230,Alaska
+AK,Aug-2015,Number of Deaths,4222,Alaska
+AK,Jul-2015,Number of Deaths,4220,Alaska
+AK,Nov-2015,Number of Deaths,4219,Alaska
+AK,Jan-2018,Number of Deaths,4214,Alaska
+AK,Jan-2016,Number of Deaths,4213,Alaska
+AK,Jun-2015,Number of Deaths,4201,Alaska
+AK,Feb-2016,Number of Deaths,4198,Alaska
+AK,May-2015,Number of Deaths,4196,Alaska
+AK,Dec-2015,Number of Deaths,4193,Alaska
+AK,Apr-2015,Number of Deaths,4133,Alaska
+AK,Mar-2015,Number of Deaths,4101,Alaska
+AK,Feb-2015,Number of Deaths,4084,Alaska
+AK,Jan-2015,Number of Deaths,4034,Alaska
